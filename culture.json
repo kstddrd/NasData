@@ -1,0 +1,32 @@
+{
+  "heritages": [
+    {"ardurran": {
+      "heritage_name": "Ardurran Heritage",
+      "heritage_desc": "The Ardur are the descendants of those Dur who decided to make a life above the “blessed stones”.  The Ardur have lived and participated in the societies of above ground for thousands of years.  They value honesty and hard work.  They are a strong cultural unit, but they mingle freely with the other civilized races.  Their craftsmen are a valued commodity throughout the most realms.  They are loyal to regional rule, but still listen to their own Durthanes and still pay homage to the King of Bargendelph.  Most Ardur participate in the traditional Dur worship of the “Four”, but some have converted to the various High Holy Orders of the other faiths.",
+      "has_racial_requirement": true,
+      "heritage_racial_type": "Ardur",
+      "heritage_faction": "Ardur Community",
+      "heritage_status": "accepted",
+      "heritage_language": "Durric",
+      "heritage_languages_added": ["Stonespeak", "Trade Common", "Uroggar", "Gnomish", "Gobnarse"],
+      "heritage_benefits": [
+        {"heritage_benefit_desc": "All Ardurran Heritage characters automatically add +2 to Combat check rolls when using Special Dur Weapons.  They also gain a +2 bonus to all Skill roll checks for Crafting"}
+        ]
+      }
+    },
+    {"metropolitan": {
+      "heritage_name": "Metropolitan Citizen",
+      "heritage_desc": "Those raised inside of a grand city care little for what happens beyond the city walls.  Theirs is a culture of commerce, politics, crime, and corruption.  The city may be ruled by a Noble Lord, but districts and enclaves are ruled by councilors, guild masters, and crime syndicates.  Most lage cities give homage to some type of High Holy Order, but a diverse range of cults, sects, and secret religions may be found if you know where to look.",
+      "heritage_faction": "Civic Authority (Local)",
+      "has_racial_requirement": false,
+      "heritage_racial_type": null,
+      "heritage_status": "accepted",
+      "heritage_language": "Trade Common",
+      "heritage_languages_added": ["Any"],
+      "heritage_benefits": [
+        {"heritage_benefit_desc": "Cities tend to be centers of wealth and power.  Citizens gain a +1 to Social Status roll and Wealth roll."}
+        ]
+      }
+    }
+  ]
+}
