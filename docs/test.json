@@ -1,0 +1,525 @@
+{
+  "races": [{
+      "race": {
+        "id": "dwarf",
+        "raceName": "Dur",
+        "raceDesc": "The Dur (or Dwarves as humans call them) are probably the oldest race still openly active in the world today.  The Dur and their culture have had some degree of impact on every culture in existence at this time.  The Dur are a race of dedicated, hardworking, hard fighting, and hard drinking, craftsmen without equal.  On the average, dwarves tend to be short and stocky with short legs but clever fingers.  They have broad, heavy features with rounded ears, lots of hair, and large noses.  Dwarves are tough and strong with a near legendary ability to withstand much physical strain.  Dwarves have a well-deserved reputation for being short tempered, suspicious, and thirsty; but they also form intensely loyal friendships with those they like.",
+        "fullBlood": {
+          "fbDesc": "A Character with two Dwarven parents gains +5 to Total Hit Points.",
+          "fbBonus": {
+            "fbHasBonus": true,
+            "fbBonusType": "hp",
+            "fbBonusAmount": 5
+          }
+        },
+        "raceSpecial": {
+          "specialDesc": "Characters of Dwarven Heritage gain the ability to always knodirection.",
+          "specialAb": "know direction"
+        },
+        "traits": {
+          "size": "m",
+          "speed": 20,
+          "avgHeight": 45,
+          "avgWeight": 230,
+          "avgLifespan": 350
+        },
+        "types": [{
+            "type": {
+              "typeName": "Ardur",
+              "typeDesc": "The Ardur are what most humans think of when they hear the name Dwarf.  They are a hard drinking, hard fighting, and dour faced race of fine craftsmen, stalwart mercenaries, and loyal companions.  The Ardur are descendants of Radur entrepreneurs who came from the mountains to live and trade among the surface races.  Since that time, the Ardur have changed a little from their cousins.  They tend to have brown or red colored hair, light brown skin, and brown or green colored eyes.  They stand slightly taller than the Radur.",
+              "fullType": {
+                "fullTypeDesc": "A Character with two Ardur parents gains an additional +1 to Mental Ability",
+                "fullTypeAbBonus": "physical",
+                "fullTypeBonusAmt": 1
+              },
+              "isTaller": true,
+              "isShorter": false,
+              "heightMaxDiff": 6,
+              "isHeavier": false,
+              "isLighter": false,
+              "weightMaxDiff": 0,
+              "maternal": {
+                "maternalDesc": "Your natural mother was Ardur.",
+                "maternalName": "Hammer Born",
+                "maternalAb": "mental",
+                "maternalAbBonus": 1
+              },
+              "paternal": {
+                "paternalDesc": "Your natural father was Ardur.",
+                "paternalName": "Hammer Sired",
+                "paternalAb": "physical",
+                "paternalAbBonus": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "typeName": "Radur",
+              "typeDesc": "The Radur are the denizens of the mountain deeps.  They are an underground dwelling race of stone loving warriors and craftsmen.  They love the simple pleasures of life, but within moderation.  They are strongly loyal and brave, but very serious with outsiders.  They are shorter than the Ardur with a strong and stocky build.  They love to eat and drink.  They are very family oriented.  They have light colored hair, sometimes pale blonde.  They have bright gray-blue eyes.  They weigh slightly more than the Ardur.",
+              "fullType": {
+                "fullTypeDesc": "A Character with two Radur parents gains an additional +1 to Spiritual Ability",
+                "fullTypeAbBonus": "spiritual",
+                "fullTypeBonusAmt": 1
+              },
+              "isTaller": false,
+              "isShorter": false,
+              "heightMaxDiff": 0,
+              "isHeavier": true,
+              "isLighter": false,
+              "weightMaxDiff": 40,
+              "maternal": {
+                "maternalDesc": "Your natural mother was Radur.",
+                "maternalName": "Anvil Born",
+                "maternalAb": "spiritual",
+                "maternalAbBonus": 1
+              },
+              "paternal": {
+                "paternalDesc": "Your natural father was Radur.",
+                "paternalName": "Anvil Sired",
+                "paternalAb": "physical",
+                "paternalAbBonus": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "race": {
+        "id": "elf",
+        "raceName": "N'Athi",
+        "raceDesc": "The N'Athi (called elves by most humans) are thought to be one of the oldest races found in the world.  Certainly, most of their cultural traditions have survived for many thousands of years.  As with humans, there are several different elven racial types.  Certain physiological features are typical of all elves.  All elves tend to be slender with fine, almost delicate features and long, dexterous fingers.  Elven eyes are always large, slanted, and almond shaped.  Their ears are larger and sharply pointed.  All elves have excellent senses.  All elves are observant and have analytical minds.  As a result, most elves are thoughtful and opposed to action without comprehensive thought and planning.  Elves are prone to empathy and share a minor type of mystic bond with other members of their family and, to some extent, other elves.  As a result, Elves can share deep emotions and feelings with members of their families.  They know, vaguely, the direction in which any family member is located at any given time and have a general impression of that member’s well-being.  Elves gain a +2 bonus to all ‘Social Skills’ roll results that involve other Elves.",
+        "fullBlood": {
+          "fbDesc": "A Character with two Elven parents gains a +4 racial bonus to Physical Perception checks.",
+          "fbBonus": {
+            "fbHasBonus": true,
+            "fbBonusType": "perception",
+            "fbBonusAmount": 4
+          }
+        },
+        "raceSpecial": {
+          "specialDesc": "Characters with Elven Heritage gain the ability to rest without having to sleep.",
+          "specialAb": "reverie"
+        },
+        "traits": {
+          "size": "m",
+          "speed": 30,
+          "avgHeight": 56,
+          "avgWeight": 105,
+          "avgLifespan": 500
+        },
+        "types": [{
+            "type": {
+              "typeName": "Ara'N'Athi",
+              "typeDesc": "The Ara, as those on Kon Siddah name them, are the remnant of a larger population of the so called “High Elves” that once covered the world.  They are a magic loving race of intelligent craftsmen who prefer to be left out of regional politics and worldly affairs.  They are a taller than average race of fine skinned, high featured elves with blonde, reddish blonde, or light brown hair.  They have almond shaped eyes of blue, violet, or grey.",
+              "fullType": {
+                "fullTypeDesc": "A Character with two Ara’N’Athi parents gain an additional +1 to Mental Ability.",
+                "fullTypeAbBonus": "mental",
+                "fullTypeBonusAmt": 1
+              },
+              "isTaller": true,
+              "isShorter": false,
+              "heightMaxDiff": 6,
+              "isHeavier": false,
+              "isLighter": false,
+              "weightMaxDiff": 0,
+              "maternal": {
+                "maternalDesc": "Your natural mother was Ara'N'Athi.",
+                "maternalName": "Mage Born",
+                "maternalAb": "mental",
+                "maternalAbBonus": 1
+              },
+              "paternal": {
+                "paternalDesc": "Your natural father was Ara'N'Athi.",
+                "paternalName": "Mage Sired",
+                "paternalAb": "spiritual",
+                "paternalAbBonus": 1
+              }
+            }
+          },
+          {
+            "type": {
+              "typeName": "Syl'N'Athi",
+              "typeDesc": "The Syl are a nature loving race and care little for the intrusions of outsiders.  They are short and wiry of build with fine, sharp features.  They have almond shaped eyes of gold, green, or brown.  Their skin is a deep olive tan, and their hair may be any shade of brown or deep red.",
+              "fullType": {
+                "fullTypeDesc": "A Character with two Syl’N’Athi parents gain an additional +1 to Physical Ability.",
+                "fullTypeAbBonus": "spiritual",
+                "fullTypeBonusAmt": 1
+              },
+              "isTaller": false,
+              "isShorter": false,
+              "heightMaxDiff": 0,
+              "isHeavier": true,
+              "isLighter": false,
+              "weightMaxDiff": 40,
+              "maternal": {
+                "maternalDesc": "Your natural mother was Radur.",
+                "maternalName": "Anvil Born",
+                "maternalAb": "spiritual",
+                "maternalAbBonus": 1
+              },
+              "paternal": {
+                "paternalDesc": "Your natural father was Radur.",
+                "paternalName": "Anvil Sired",
+                "paternalAb": "physical",
+                "paternalAbBonus": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "race": {
+        "id": "elf",
+        "race_name": "N'Athi",
+        "race_desc": "The N'Athi (called elves by most humans) are thought to be one of the oldest races found in the world.  Certainly, most of their cultural traditions have survived for many thousands of years.  As with humans, there are several different elven racial types.  Certain physiological features are typical of all elves.  All elves tend to be slender with fine, almost delicate features and long, dexterous fingers.  Elven eyes are always large, slanted, and almond shaped.  Their ears are larger and sharply pointed.  All elves have excellent senses.  All elves are observant and have analytical minds.  As a result, most elves are thoughtful and opposed to action without comprehensive thought and planning.  Elves are prone to empathy and share a minor type of mystic bond with other members of their family and, to some extent, other elves.  As a result, Elves can share deep emotions and feelings with members of their families.  They know, vaguely, the direction in which any family member is located at any given time and have a general impression of that member’s well-being.  Elves gain a +2 bonus to all ‘Social Skills’ roll results that involve other Elves.",
+        "if_fullblood": [{
+            "fb_desc": "A Character with two Elven parents gains a +4 racial bonus to Physical Perception checks."
+          },
+          {
+            "fb_bonuses": [{
+                "has_bonus": true
+              },
+              {
+                "bonus_type": "perception"
+              },
+              {
+                "bonus_amount": 4
+              }
+            ]
+          },
+          {
+            "special": [{
+                "special_desc": "Characters with Elven Heritage gain the ability to rest without having to sleep."
+              },
+              {
+                "special-ab": "reverie"
+              }
+            ]
+          }
+        ],
+        "traits": [{
+            "size": "m"
+          },
+          {
+            "speed": 30
+          },
+          {
+            "avg_height": 56
+          },
+          {
+            "avg_weight": 105
+          },
+          {
+            "avg_lifespan": 500
+          }
+        ],
+        "type": [{
+            "Ara": [{
+                "type_name": "Ara'N'Athi"
+              },
+              {
+                "type_desc": "The Ara, as those on Kon Siddah name them, are the remnant of a larger population of the so called “High Elves” that once covered the world.  They are a magic loving race of intelligent craftsmen who prefer to be left out of regional politics and worldly affairs.  They are a taller than average race of fine skinned, high featured elves with blonde, reddish blonde, or light brown hair.  They have almond shaped eyes of blue, violet, or grey."
+              },
+              {
+                "full_type": [{
+                    "f_type_desc": "A Character with two Ara’N’Athi parents gain an additional +1 to Mental Ability."
+                  },
+                  {
+                    "ab_bonus": "m"
+                  },
+                  {
+                    "bonus": 1
+                  }
+                ]
+              },
+              {
+                "is_taller": true
+              },
+              {
+                "height_max_diff": 16
+              },
+              {
+                "is_heavier": false
+              },
+              {
+                "weight_max_diff": null
+              },
+              {
+                "maternal": [{
+                    "mat_desc": "Your natural mother was Ara’N’Athi."
+                  },
+                  {
+                    "mat_name": "Mage Born"
+                  },
+                  {
+                    "mat_ab": "m"
+                  },
+                  {
+                    "mat_ab_bonus": 1
+                  }
+                ]
+              },
+              {
+                "paternal": [{
+                    "pat_desc": "Your natural father was Ara’N’Athi."
+                  },
+                  {
+                    "pat_name": "Mage Sired"
+                  },
+                  {
+                    "pat_ab": "s"
+                  },
+                  {
+                    "pat_ab_bonus": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Syl": [{
+                "type_name": "Syl'N'Athi"
+              },
+              {
+                "type_desc": "The Syl are a nature loving race and care little for the intrusions of outsiders.  They are short and wiry of build with fine, sharp features.  They have almond shaped eyes of gold, green, or brown.  Their skin is a deep olive tan, and their hair may be any shade of brown or deep red."
+              },
+              {
+                "full_type": [{
+                    "f_type_desc": "A Character with two Syl’N’Athi parents gain an additional +1 to Physical Ability."
+                  },
+                  {
+                    "ab_bonus": "p"
+                  },
+                  {
+                    "bonus": 1
+                  }
+                ]
+              },
+              {
+                "is_taller": false
+              },
+              {
+                "height_max_diff": null
+              },
+              {
+                "is_heavier": false
+              },
+              {
+                "weight_max_diff": null
+              },
+              {
+                "maternal": [{
+                    "mat_desc": "Your natural mother was Syl’N’Athi."
+                  },
+                  {
+                    "mat_name": "Forest Born"
+                  },
+                  {
+                    "mat_ab": "s"
+                  },
+                  {
+                    "mat_ab_bonus": 1
+                  }
+                ]
+              },
+              {
+                "paternal": [{
+                    "pat_desc": "Your natural father was Syl’N’Athi."
+                  },
+                  {
+                    "pat_name": "Forest Sired"
+                  },
+                  {
+                    "pat_ab": "p"
+                  },
+                  {
+                    "pat_ab_bonus": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "race": {
+        "id": "gnome",
+        "race_name": "Taug",
+        "race_desc": "The Gnomes (who call themselves Taug) are a strange race of small, intelligent people. They have keen minds and skilled hands. Gnomes are friendly and forgiving, but they are easily excitable. Most Gnomes prefer bright colors and interesting hairstyles.",
+        "if_fullblood": [{
+            "fb_desc": "A Character with two Gnomish parents gains a +4 bonus to Mental Defense roll results."
+          },
+          {
+            "fb_bonuses": [{
+                "has_bonus": true
+              },
+              {
+                "bonus_type": "md"
+              },
+              {
+                "bonus_amount": 4
+              }
+            ]
+          },
+          {
+            "special": [{
+                "special_desc": "Characters with Gnomish Heritage gain the ability to take two Standard Actions as one Full Round Action."
+              },
+              {
+                "special-ab": "multi-tasking"
+              }
+            ]
+          }
+        ],
+        "traits": [{
+            "size": "s"
+          },
+          {
+            "speed": 20
+          },
+          {
+            "avg_height": 25
+          },
+          {
+            "avg_weight": 50
+          },
+          {
+            "avg_lifespan": 250
+          }
+        ],
+        "type": [{
+            "Ara": [{
+                "type_name": "Ara'N'Athi"
+              },
+              {
+                "type_desc": "The Ara, as those on Kon Siddah name them, are the remnant of a larger population of the so called “High Elves” that once covered the world.  They are a magic loving race of intelligent craftsmen who prefer to be left out of regional politics and worldly affairs.  They are a taller than average race of fine skinned, high featured elves with blonde, reddish blonde, or light brown hair.  They have almond shaped eyes of blue, violet, or grey."
+              },
+              {
+                "full_type": [{
+                    "f_type_desc": "A Character with two Ara’N’Athi parents gain an additional +1 to Mental Ability."
+                  },
+                  {
+                    "ab_bonus": "m"
+                  },
+                  {
+                    "bonus": 1
+                  }
+                ]
+              },
+              {
+                "is_taller": true
+              },
+              {
+                "height_max_diff": 16
+              },
+              {
+                "is_heavier": false
+              },
+              {
+                "weight_max_diff": null
+              },
+              {
+                "maternal": [{
+                    "mat_desc": "Your natural mother was Ara’N’Athi."
+                  },
+                  {
+                    "mat_name": "Mage Born"
+                  },
+                  {
+                    "mat_ab": "m"
+                  },
+                  {
+                    "mat_ab_bonus": 1
+                  }
+                ]
+              },
+              {
+                "paternal": [{
+                    "pat_desc": "Your natural father was Ara’N’Athi."
+                  },
+                  {
+                    "pat_name": "Mage Sired"
+                  },
+                  {
+                    "pat_ab": "s"
+                  },
+                  {
+                    "pat_ab_bonus": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Syl": [{
+                "type_name": "Syl'N'Athi"
+              },
+              {
+                "type_desc": "The Syl are a nature loving race and care little for the intrusions of outsiders.  They are short and wiry of build with fine, sharp features.  They have almond shaped eyes of gold, green, or brown.  Their skin is a deep olive tan, and their hair may be any shade of brown or deep red."
+              },
+              {
+                "full_type": [{
+                    "f_type_desc": "A Character with two Syl’N’Athi parents gain an additional +1 to Physical Ability."
+                  },
+                  {
+                    "ab_bonus": "p"
+                  },
+                  {
+                    "bonus": 1
+                  }
+                ]
+              },
+              {
+                "is_taller": false
+              },
+              {
+                "height_max_diff": null
+              },
+              {
+                "is_heavier": false
+              },
+              {
+                "weight_max_diff": null
+              },
+              {
+                "maternal": [{
+                    "mat_desc": "Your natural mother was Syl’N’Athi."
+                  },
+                  {
+                    "mat_name": "Forest Born"
+                  },
+                  {
+                    "mat_ab": "s"
+                  },
+                  {
+                    "mat_ab_bonus": 1
+                  }
+                ]
+              },
+              {
+                "paternal": [{
+                    "pat_desc": "Your natural father was Syl’N’Athi."
+                  },
+                  {
+                    "pat_name": "Forest Sired"
+                  },
+                  {
+                    "pat_ab": "p"
+                  },
+                  {
+                    "pat_ab_bonus": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+
+
+  ]
+}
