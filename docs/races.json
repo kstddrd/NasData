@@ -642,7 +642,7 @@
               },
               {
                 "full_type": [{
-                    "f_type_desc": "A Character with two Traveler parents gain an additional +1 to Mental Ability."
+                    "f_type_desc": "c"
                   },
                   {
                     "ab_bonus": "m"
@@ -703,9 +703,9 @@
       "race_id": "Human",
       "race_info": {
         "race_name": "Human",
-        "race_desc": "In general, humans are the most dominant race throughout the world.  They are considered to be one of the youngest of the races.  Humans have a larger diversity of genotype, culture, and personal attitude than any of the other races.  Humans are considered highly adaptable and frustratingly unpredictable.  They may have shorter lifespans, but they learn quickly. Indeed, they are the most versatile and potentially the most powerful choice as a Basic Race.",
+        "race_desc": "In general, humans are the most dominant race throughout the world. They are considered to be one of the youngest of the races. Humans have the largest diversity of genotype, culture, and personal attitude than any of the other races. Humans are considered highly adaptable and frustratingly unpredictable. They may have shorter lifespans, but they learn quickly. Indeed, they are the most versatile and potentially the most powerful choice as a Basic Race.",
         "fullblood": [{
-            "fb_desc": "A Character with two Human parents gains +4 Training Points."
+            "fb_desc": "A Character with two Human parents gains +2 Training Points."
           },
           {
             "fb_bonuses": [{
