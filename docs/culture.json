@@ -1,32 +1,347 @@
-{
-  "heritages": [
-    {"ardurran": {
-      "heritage_name": "Ardurran Heritage",
-      "heritage_desc": "The Ardur are the descendants of those Dur who decided to make a life above the “blessed stones”.  The Ardur have lived and participated in the societies of above ground for thousands of years.  They value honesty and hard work.  They are a strong cultural unit, but they mingle freely with the other civilized races.  Their craftsmen are a valued commodity throughout the most realms.  They are loyal to regional rule, but still listen to their own Durthanes and still pay homage to the King of Bargendelph.  Most Ardur participate in the traditional Dur worship of the “Four”, but some have converted to the various High Holy Orders of the other faiths.",
-      "has_racial_requirement": true,
-      "heritage_racial_type": "Ardur",
-      "heritage_faction": "Ardur Community",
-      "heritage_status": "accepted",
-      "heritage_language": "Durric",
-      "heritage_languages_added": ["Stonespeak", "Trade Common", "Uroggar", "Gnomish", "Gobnarse"],
-      "heritage_benefits": [
-        {"heritage_benefit_desc": "All Ardurran Heritage characters automatically add +2 to Combat check rolls when using Special Dur Weapons.  They also gain a +2 bonus to all Skill roll checks for Crafting"}
-        ]
-      }
+  [
+    {
+      "cultureTitle": "Ang Heritage (Fal Doure)",
+      "culturePrereq": "Ang",
+      "cultureDesc": "The Ang people were once the proud rulers of central Nas’Arial.  Their culture reaches back to the second Fithian Empire.  The Ang inherited the power of that empire.  Ang Sorcerer Kings dominated life in much of Nas’Arial for centuries until their final defeat at the end of the Mage Wars.  The Ang of Fal Doure sold their birthright for their survival as a people.  At one time the Ang people of Fal Doure were the rulers of current day Fal, Neb, Dar, and El.  During the Mage Wars, they submitted to the Ellid King and fought against the minions of Kourren the Corrupted.  For this, they were permitted to stay in Fal Doure and live under Ellid rule.  All Ang are now forbidden from studying or practicing Arcane Magic. Most Ang despise the idea of worshiping a deity.",
+      "cultureFaction": "Ang of Fal Doure",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Anglosar",
+      "addLang": [
+        "Nammash", "Ellic", "Kellish", "Kellagash", "Kalfar", "Flamespeak"
+      ],
+      "cultureBenDesc": "Ang Heritage characters automatically gain a +1 bonus to all Mental Ability Check rolls",
+      "cultureBenType": "mental",
+      "cultureBenNum": 1,
+      "cultureNote": "All Ang Heritage characters automatically add +2 to Weapon Bonus with all Special Ang Weapons. By Imperial Law, Those who are born of the Ang may never study or practice Arcane Magic under pain of death."
     },
-    {"metropolitan": {
-      "heritage_name": "Metropolitan Citizen",
-      "heritage_desc": "Those raised inside of a grand city care little for what happens beyond the city walls.  Theirs is a culture of commerce, politics, crime, and corruption.  The city may be ruled by a Noble Lord, but districts and enclaves are ruled by councilors, guild masters, and crime syndicates.  Most lage cities give homage to some type of High Holy Order, but a diverse range of cults, sects, and secret religions may be found if you know where to look.",
-      "heritage_faction": "Civic Authority (Local)",
-      "has_racial_requirement": false,
-      "heritage_racial_type": null,
-      "heritage_status": "accepted",
-      "heritage_language": "Trade Common",
-      "heritage_languages_added": ["Any"],
-      "heritage_benefits": [
-        {"heritage_benefit_desc": "Cities tend to be centers of wealth and power.  Citizens gain a +1 to Social Status roll and Wealth roll."}
-        ]
-      }
+    {
+      "cultureTitle": "Ang Heritage (Jetta Doure)",
+      "culturePrereq": "Ang",
+      "cultureDesc": "The Ang were once the proud rulers of central Nas’Arial.  Their culture reaches back to the second Fithian Empire.  They inherited the power of that empire.  Ang Sorcerer Kings dominated life in much of Nas’Arial for centuries until their final defeat at the end of the Mage Wars.  The Ang people of Jetta Doure are the remnants of those who followed the rule of Kourren the Corrupted.  Many of those who survived the Mage Wars were rounded up and forced into controlled communities located throughout the scar lands of Jetta Doure.  Under Ellid Law, magic using Ang are hunted down and executed.  The modern Ang have no real political structure.  Some are allowed to leave the camps and find opportunities in the civilized towns of settled Jetta Doure.  Their cultural hatred for the Ellid Empire and its High Holy Orders is a living, palpable thing.  Most Ang long for the day when Ellida Imperia is ground to dust as the Ang ascend to their rightful place as the true rulers of Nas’Arial.",
+      "cultureFaction": "Ang of Jetta Doure",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Anglosar",
+      "addLang": [
+        "Nammash", "Ellic", "Kellish", "Kellagash", "Kalfar", "Flamespeak", "Gobnarse"
+      ],
+      "cultureBenDesc": "Ang Heritage characters automatically gain a +1 bonus to all Mental Ability Check rolls",
+      "cultureBenType": "mental",
+      "cultureBenNum": 1,
+      "cultureNote": "All Ang Heritage characters automatically add +2 to Weapon Bonus with all Special Ang Weapons. By Imperial Law, Those who are born of the Ang may never study or practice Arcane Magic under pain of death."
+    },
+    {
+      "cultureTitle": "Ardurran Heritage",
+      "culturePrereq": "Dur",
+      "cultureDesc": "The Ardur are the descendants of those Dur who decided to make a life above the “blessed stones”.  The Ardur have lived and participated in the societies of Nas’Arial for thousands of years.  They value honesty and hard work.  They are a strong cultural unit, but they mingle freely with the other civilized races.  Their craftsmen are a valued commodity throughout the Ellid Empire.  They are loyal to regional rule, but still listen to their own Durthanes and still pay homage to the King of Bargendelph.  Most Ardur participate in the traditional Dur worship of the “Four”, but some have converted to the various High Holy Orders of the Ellid faith.",
+      "cultureFaction": "Clans of the Ardur",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Durric",
+      "addLang": [
+        "Stonespeak", "Kellish", "Nammash", "Kellagash", "Uroggar", "Gnomish", "Gobnarse"
+      ],
+      "cultureBenDesc": "The Ardur have access to greater wealth due to their long history as talented merchants and craftsmen.",
+      "cultureBenType": "wealth",
+      "cultureBenNum": 2,
+      "cultureNote": "All Ardurran Heritage characters automatically add +2 to Weapon Bonus with all Special Dur Weapons."
+    },
+    {
+      "cultureTitle": "Nammagh Citizen",
+      "culturePrereq": "any",
+      "cultureDesc": "The City State of Nammagh is the oldest of the modern style metropolises of Nas’Arial.  Nammagh was founded over 2,500 years ago.  It is the oldest common free market.  It was originally settled by Dur who wanted a safe place to barter for Nam.  The city still carries its Dwarvish character, but is truly a cosmopolitan metropolis.  Nammagh is the birthplace of modern wizardry in Nas’Arial.  The first college dedicated to the Arcane Arts and Sciences was founded in Nammagh by Borgryn “Dursyl” Redhelm over 1,000 years ago.  The citizens of Nammagh live under the rule of Peace.  Anyone who sheds even a drop of another’s blood is doomed to be executed.  This law has kept the peace for most all of Nammagh’s history.  Although the High Holy Orders have a large presence in modern Nammagh, representatives from just about every known faith or sect can be found there.",
+      "cultureFaction": "City of Nammagh",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Nammash",
+      "addLang": [
+        "any"
+      ],
+      "cultureBenDesc": "Nammagh is a wealthy center of trade and its citizens have greater wealth and a higher standard of living.",
+      "cultureBenType": "wealth",
+      "cultureBenNum": 2,
+      "cultureNote": ""
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
+    },
+    {
+      "cultureTitle": "string",
+      "culturePrereq": "string",
+      "cultureDesc": "string",
+      "cultureFaction": "string",
+      "cultureFactionRel": "string",
+      "cultureLang": "string",
+      "addLang": [
+        "string"
+      ],
+      "cultureBenDesc": "string",
+      "cultureBenType": "string",
+      "cultureBenNum": 0,
+      "cultureNote": "string"
     }
   ]
-}
