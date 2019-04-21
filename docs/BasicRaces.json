@@ -1,5 +1,5 @@
-{
-  "races": [{
+
+  [{
       "id": "dwarf",
       "raceName": "Dur",
       "raceDesc": "The Dur (or Dwarves as humans call them) are probably the oldest race still openly active in the world today.  The Dur and their culture have had some degree of impact on every culture in existence at this time.  The Dur are a race of dedicated, hardworking, hard fighting, and hard drinking, craftsmen without equal.  On the average, dwarves tend to be short and stocky with short legs but clever fingers.  They have broad, heavy features with rounded ears, lots of hair, and large noses.  Dwarves are tough and strong with a near legendary ability to withstand much physical strain.  Dwarves have a well-deserved reputation for being short tempered, suspicious, and thirsty; but they also form intensely loyal friendships with those they like.",
@@ -205,4 +205,3 @@
     }
 
   ]
-}
