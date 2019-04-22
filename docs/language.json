@@ -1,0 +1,92 @@
+[
+  {
+    "langName": "Anglosar",
+    "langDesc": "Ancient Fethic Based language used by the Ang culture of Nas'Arial",
+    "langCulture": ["Ang of Fal Doure", "Ang of Jetta Doure"],
+    "langRace": "human",
+    "langAlphabet": "Fethic",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  },
+  {
+    "langName": "Durric",
+    "langDesc": "The runic language of the Dur.",
+    "langCulture": ["Ardurran Heritage", "Radurran Heritage"],
+    "langRace": "dwarf",
+    "langAlphabet": "Durric",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  },
+  {
+    "langName": "Uroggar",
+    "langDesc": "The runic language of the Orcs",
+    "langCulture": ["Blood Orc Heritage", "Steel Orc Heritage", "Iron Orc Heritage"],
+    "langRace": "orc",
+    "langAlphabet": "Akric",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  },
+  {
+    "langName": "Nammash",
+    "langDesc": "The common trade language of Nammagh. Nammash is a popular language for trade and communication throughout Nas'Arial. It is not unusual for Dur, N'Athi, and Humans to all communicate with each other in Nammash.",
+    "langCulture": ["Nammagh Citizen"],
+    "langRace": "any",
+    "langAlphabet": "Durric",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  },
+  {
+    "langName": "Ellic",
+    "langDesc": "The court language of the Ellid Empire.  Originated from ancient Loric, Ellic is the official language of all official Ellid laws, documents, literature, religious texts, and academic journals.",
+    "langCulture": ["Ellid Heritage"],
+    "langRace": "human",
+    "langAlphabet": "Loric",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  },
+  {
+    "langName": "Loric",
+    "langDesc": "The ancient language of Elloria and Loria.  Although much ancient lore has been transcribed into Ellic, some ancient knowledge, poetry, and epic lore is still only available in the original source languge of Loric.",
+    "langCulture": "Loria",
+    "langRace": "human",
+    "langAlphabet": "Loric",
+    "isWritten": true,
+    "isCurrent": false,
+    "isDead": true
+  },
+  {
+    "langName": "",
+    "langDesc": "",
+    "langCulture": "",
+    "langRace": "",
+    "langAlphabet": "",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  },
+  {
+    "langName": "",
+    "langDesc": "",
+    "langCulture": "",
+    "langRace": "",
+    "langAlphabet": "",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  },
+  {
+    "langName": "",
+    "langDesc": "",
+    "langCulture": "",
+    "langRace": "",
+    "langAlphabet": "",
+    "isWritten": true,
+    "isCurrent": true,
+    "isDead": false
+  }
+]
