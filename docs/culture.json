@@ -95,9 +95,9 @@
       "cultureDesc": "The Ara N’Athi elves, or “high elves”, have inhabited small communities throughout Nas’Arial since the end of the second Gods’ War.  Some claim that the Ara are haughty and treat other races like children.  The Ara would claim that they are burdened with the wisdom of long lives.  They see the other races as equal, but perpetually unaware of the larger picture.  Their enclaves are often within the communities of other nations.  The few small communities that exist individually are led by a council of noble elder mages.  Religion is not a strong or cohesive factor in Ara culture.  Many Ara have taken up with various religious orders, but no one faith seems to have any strong cultural hold.",
       "cultureFaction": "Ara'N'Athi Concordance",
       "cultureFactionRel": "accepted",
-      "cultureLang": "Al'T'Naranir",
+      "cultureLang": "Alnaranir",
       "addLang": [
-        "Al'T'Sylnir", "Ellic", "Marrin", "Kellagash", "Kellish", "Kalfar", "Monaric", "Nammash", "Gobnarse", "Gnomish", "Durric", "Akric"
+        "Alsylnir", "Ellic", "Marrin", "Kellagash", "Kellish", "Kalfar", "Monaric", "Nammash", "Gobnarse", "Gnomish", "Durric", "Akric"
       ],
       "cultureBenDesc": "Ara'N'Athi characters are trained to sense arcane magic.",
       "cultureBenType": "feature",
@@ -127,7 +127,7 @@
       "cultureFactionRel": "accepted",
       "cultureLang": "Giet'Aran'",
       "addLang": [
-        "Nammash", "Al'T'Sylnir", "Kellish", "Uroggar"
+        "Nammash", "Alsylnir", "Kellish", "Uroggar"
       ],
       "cultureBenDesc": "People of Giet'tan heritage spend long hours traveling the grasslands. As a matter of course, they are in good physical condition and gain a +1 bonus to all Physical ability based check rolls.",
       "cultureBenType": "physical",
@@ -157,7 +157,7 @@
       "cultureFactionRel": "accepted",
       "cultureLang": "Nammash",
       "addLang": [
-        "Durric", "Al'T'Sylnir", "Kellish", "Uroggar", "Kellagash", "Giet'Aran"
+        "Durric", "AlSylnir", "Kellish", "Uroggar", "Kellagash", "Giet'Aran"
       ],
       "cultureBenDesc": "Hammish communities are strongly cooperative and family oriented.  Characters with this heritage gain +1 to Spiritual Ability based check rolls.",
       "cultureBenType": "spiritual",
@@ -270,78 +270,33 @@
       "cultureNote": "Radurran characters have a +4 cultural bonus to all Craft skill check rolls."
     },
     {
-      "cultureTitle": "string",
-      "culturePrereq": "string",
-      "cultureDesc": "string",
-      "cultureFaction": "string",
-      "cultureFactionRel": "string",
-      "cultureLang": "string",
+      "cultureTitle": "Syl'N'Athi Heritage",
+      "culturePrereq": "elf",
+      "cultureDesc": "The Syl’N’Athi, or forest elves, came over the mountains and into Nas’Arial about 5,000 years ago.  Theirs is a culture of harmonic codependence with the forest.  They tolerate some races, but strongly dislike outsiders in their lands.  They are serious guardians and warriors when challenged, but at heart they are a fun loving and happy people.  They have prohibitions against the practice of Arcane Magic among their populace.  Syl who wish to study such magic must leave their homeland and seek knowledge from the outside world.  Syl communities are small and guided by their local Nosic druid.  The Syl people are united under the guidance of the Council of Leaves.  Syl’N’Athi are almost entirely Nosic in faith.",
+      "cultureFaction": "Council of Leaves",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Alsylnir",
       "addLang": [
-        "string"
+        "Alnaranir", "Durric", "Hammish", "Nammash", "Gobnarse", "Uroggar"
       ],
-      "cultureBenDesc": "string",
-      "cultureBenType": "string",
-      "cultureBenNum": 0,
-      "cultureNote": "string"
+      "cultureBenDesc": "Syl'N'Athi are strong and athletic. Syl'N'Athi characters gain +1 to all Physical ability based check rolls.",
+      "cultureBenType": "physical",
+      "cultureBenNum": 1,
+      "cultureNote": "Syl'N'Athi characters gain a +4 cultural bonus to all Nature Lore skill check rolls."
     },
     {
-      "cultureTitle": "string",
-      "culturePrereq": "string",
-      "cultureDesc": "string",
-      "cultureFaction": "string",
-      "cultureFactionRel": "string",
-      "cultureLang": "string",
+      "cultureTitle": "Wandering Gor",
+      "culturePrereq": "halfmen",
+      "cultureDesc": "The Wandering Gor are viewed by most of Ellida with about as much affection as a case of the hives.  They wander about in groups small and large looking for adventure and seeking new things.  In order to lessen their unpopularity among the settled peoples, many Wanderers join circuses and traveling shows.  They are natural performers.  They have no real political structure.  Family groups connect for short periods of time and work together.  Wanderers have no unifying faith. They usually explore many faiths in their lifetime search for new experiences.",
+      "cultureFaction": "None",
+      "cultureFactionRel": "none",
+      "cultureLang": "Hammish",
       "addLang": [
-        "string"
+        "any"
       ],
-      "cultureBenDesc": "string",
-      "cultureBenType": "string",
-      "cultureBenNum": 0,
-      "cultureNote": "string"
-    },
-    {
-      "cultureTitle": "string",
-      "culturePrereq": "string",
-      "cultureDesc": "string",
-      "cultureFaction": "string",
-      "cultureFactionRel": "string",
-      "cultureLang": "string",
-      "addLang": [
-        "string"
-      ],
-      "cultureBenDesc": "string",
-      "cultureBenType": "string",
-      "cultureBenNum": 0,
-      "cultureNote": "string"
-    },
-    {
-      "cultureTitle": "string",
-      "culturePrereq": "string",
-      "cultureDesc": "string",
-      "cultureFaction": "string",
-      "cultureFactionRel": "string",
-      "cultureLang": "string",
-      "addLang": [
-        "string"
-      ],
-      "cultureBenDesc": "string",
-      "cultureBenType": "string",
-      "cultureBenNum": 0,
-      "cultureNote": "string"
-    },
-    {
-      "cultureTitle": "string",
-      "culturePrereq": "string",
-      "cultureDesc": "string",
-      "cultureFaction": "string",
-      "cultureFactionRel": "string",
-      "cultureLang": "string",
-      "addLang": [
-        "string"
-      ],
-      "cultureBenDesc": "string",
-      "cultureBenType": "string",
-      "cultureBenNum": 0,
-      "cultureNote": "string"
+      "cultureBenDesc": "Wanderers are observant and quick witted. Wandering Gor characters gain a +1 bonus to all Mental ability based check rolls.",
+      "cultureBenType": "mental",
+      "cultureBenNum": 1,
+      "cultureNote": "Wanderers have a hard time with the concept of personal property and ownership.  As such Wandering Gor characters gain a +2 bonus to all Theiving Skill skill check rolls."
     }
   ]
