@@ -1,207 +1,206 @@
-
-  [{
-      "id": "dwarf",
-      "raceName": "Dur",
-      "raceDesc": "The Dur (or Dwarves as humans call them) are probably the oldest race still openly active in the world today.  The Dur and their culture have had some degree of impact on every culture in existence at this time.  The Dur are a race of dedicated, hardworking, hard fighting, and hard drinking, craftsmen without equal.  On the average, dwarves tend to be short and stocky with short legs but clever fingers.  They have broad, heavy features with rounded ears, lots of hair, and large noses.  Dwarves are tough and strong with a near legendary ability to withstand much physical strain.  Dwarves have a well-deserved reputation for being short tempered, suspicious, and thirsty; but they also form intensely loyal friendships with those they like.",
-      "fullBlood": {
-        "fbDesc": "A Character with two Dwarven parents gains +5 to Total Hit Points.",
-        "fbBonus": {
-          "fbHasBonus": true,
-          "fbBonusType": "hp",
-          "fbBonusAmount": 5
-        }
-      },
-      "raceSpecial": {
-        "specialDesc": "Characters of Dwarven Heritage gain the ability to always knodirection.",
-        "specialAb": "know direction"
-      },
-      "traits": {
-        "size": "m",
-        "speed": 20,
-        "avgHeight": 45,
-        "avgWeight": 230,
-        "avgLifespan": 350
-      },
-      "maternal": {
-        "maternalRace": "dwarf",
-        "maternalType": "Dur",
-        "maternalDesc": "Your natural mother was Dur.",
-        "maternalName": "Anvil Born",
-        "maternalAb": "spiritual",
-        "maternalAbBonus": 1
-      },
-      "paternal": {
-        "paternalRace": "dwarf",
-        "paternalType": "Dur",
-        "paternalDesc": "Your natural father was Dur.",
-        "paternalName": "Anvil Sired",
-        "paternalAb": "physical",
-        "paternalAbBonus": 1
+[{
+    "id": "dwarf",
+    "raceName": "Dur",
+    "raceDesc": "The Dur (or Dwarves as humans call them) are probably the oldest race still openly active in the world today.  The Dur and their culture have had some degree of impact on every humanoid culture in existence.  The Dur are a race of dedicated, hardworking, hard fighting, and hard drinking, craftsmen without equal.  On the average, dwarves tend to be short and stocky with bandy legs and quick, clever fingers.  In appearance, they have broad, heavy faces with rounded ears, lots of hair, and large noses.  Dur are tough and strong with a near legendary ability to withstand much physical strain.  In addition, they have a well-deserved reputation for being short tempered, suspicious, and rude to strangers. But,they will also form intensely loyal and generous friendships with those they have accepted as worthwhile.",
+    "fullBlood": {
+      "fbDesc": "A Character with two Dwarven parents gains +5 to Total Hit Points.",
+      "fbBonus": {
+        "fbHasBonus": true,
+        "fbBonusType": "hp",
+        "fbBonusAmount": 5
       }
     },
-    {
-
-      "id": "elf",
-      "raceName": "N'Athi",
-      "raceDesc": "The N'Athi (called elves by most humans) are thought to be one of the oldest races found in the world.  Certainly, most of their cultural traditions have survived for many thousands of years.  As with humans, there are several different elven racial types.  Certain physiological features are typical of all elves.  All elves tend to be slender with fine, almost delicate features and long, dexterous fingers.  Elven eyes are always large, slanted, and almond shaped.  Their ears are larger and sharply pointed.  All elves have excellent senses.  All elves are observant and have analytical minds.  As a result, most elves are thoughtful and opposed to action without comprehensive thought and planning.  Elves are prone to empathy and share a minor type of mystic bond with other members of their family and, to some extent, other elves.  As a result, Elves can share deep emotions and feelings with members of their families.  They know, vaguely, the direction in which any family member is located at any given time and have a general impression of that member’s well-being.  Elves gain a +2 bonus to all ‘Social Skills’ roll results that involve other Elves.",
-      "fullBlood": {
-        "fbDesc": "A Character with two Elven parents gains a +4 racial bonus to Physical Perception checks.",
-        "fbBonus": {
-          "fbHasBonus": true,
-          "fbBonusType": "perception",
-          "fbBonusAmount": 4
-        }
-      },
-      "raceSpecial": {
-        "specialDesc": "Characters with Elven Heritage gain the ability to rest without having to sleep.",
-        "specialAb": "reverie"
-      },
-      "traits": {
-        "size": "m",
-        "speed": 30,
-        "avgHeight": 56,
-        "avgWeight": 105,
-        "avgLifespan": 500
-      },
-      "maternal": {
-        "maternalRace": "elf",
-        "maternalType": "N'Athi",
-        "maternalDesc": "Your natural mother was N'Athi.",
-        "maternalName": "Fae Born",
-        "maternalAb": "spiritual",
-        "maternalAbBonus": 1
-      },
-      "paternal": {
-        "paternalRace": "elf",
-        "paternalType": "N'Athi",
-        "paternalDesc": "Your natural father was N'Athi.",
-        "paternalName": "Fae Sired",
-        "paternalAb": "physical",
-        "paternalAbBonus": 1
-      }
+    "raceSpecial": {
+      "specialDesc": "Characters with at least one Dwarven parent gain the ability to always discern direction and general depth.",
+      "specialAb": "know direction"
     },
-    {
-
-      "id": "gnome",
-      "raceName": "Gnomentaug",
-      "raceDesc": "Gnometaug (referred to by most as Gnomes) are a strange race of small, intelligent people. They have keen minds and skilled hands. Gnomes are friendly and forgiving, but they are easily excitable. Most Gnomes prefer bright colors and interesting hairstyles.",
-      "fullBlood": {
-        "fbDesc": "A Character with two Gnomish parents gains a +4 bonus to Mental Defense roll results.",
-        "fbBonus": {
-          "fbHasBonus": true,
-          "fbBonusType": "Mental Defense",
-          "fbBonusAmount": 4
-        }
-      },
-      "raceSpecial": {
-        "specialDesc": "Characters with Gnomish Heritage gain the ability to take two Standard Actions as one Full Round Action once per encounter",
-        "specialAb": "multi-task"
-      },
-      "traits": {
-        "size": "s",
-        "speed": 20,
-        "avgHeight": 25,
-        "avgWeight": 50,
-        "avgLifespan": 250
-      },
-      "maternal": {
-        "maternalRace": "gnome",
-        "maternalType": "Gnomentaug",
-        "maternalDesc": "Your natural mother was a Lowlander Gnome.",
-        "maternalName": "Genius Born",
-        "maternalAb": "mental",
-        "maternalAbBonus": 1
-      },
-      "paternal": {
-        "paternalRace": "gnome",
-        "paternalType": "Gnomentaug",
-        "paternalDesc": "Your natural father was Lowlander Gnome.",
-        "paternalName": "Genius Sired",
-        "paternalAb": "mental",
-        "paternalAbBonus": 1
-      }
+    "traits": {
+      "size": "m",
+      "speed": 20,
+      "avgHeight": 45,
+      "avgWeight": 230,
+      "avgLifespan": 350
     },
-    {
-
-      "id": "halfmen",
-      "raceName": "Gor",
-      "raceDesc": "Halfmen, or Gor as twould rather be called, are a raceshort, cheerful creatures that appearlook almost like human children.  All are family and community oriented.  Arace, they are mostly friendly, helpfand talkative. Halflings display a strtrait of naïve optimism. Seemincontrary to their somewhat childlnature, Gor can be intensely serious dedicated when necessary. They arpleasant race with deep reserves of qustrength and determination. They hfeatures very similar to humans excfor slightly pointed ears and lartough-soled feet.",
-      "fullBlood": {
-        "fbDesc": "A Character with two Gor parents gains a +4 bonus to Physical Defense roll results.",
-        "fbBonus": {
-          "fbHasBonus": true,
-          "fbBonusType": "Physical Defense",
-          "fbBonusAmount": 4
-        }
-      },
-      "raceSpecial": {
-        "specialDesc": "Characters with Gor Heritage gain the ability to communicate with rodents.",
-        "specialAb": "squirrel speak"
-      },
-      "traits": {
-        "size": "s",
-        "speed": 20,
-        "avgHeight": 36,
-        "avgWeight": 80,
-        "avgLifespan": 100
-      },
-      "maternal": {
-        "maternalRace": "halfmen",
-        "maternalType": "Gor",
-        "maternalDesc": "Your natural mother was Hammid.",
-        "maternalName": "Hearth Born",
-        "maternalAb": "physical",
-        "maternalAbBonus": 1
-      },
-      "paternal": {
-        "paternalRace": "halfmen",
-        "paternalType": "Gor",
-        "paternalDesc": "Your natural father was Hammid.",
-        "paternalName": "Hearth Sired",
-        "paternalAb": "spiritual",
-        "paternalAbBonus": 1
-      }
+    "maternal": {
+      "maternalRace": "dwarf",
+      "maternalType": "Dur",
+      "maternalDesc": "Your natural mother was Dur.",
+      "maternalName": "Anvil Born",
+      "maternalAb": "spiritual",
+      "maternalAbBonus": 1
     },
-    {
-
-      "id": "human",
-      "raceName": "Human",
-      "raceDesc": "In general, humans are most dominant race throughout the worThey are considered to be one of youngest of the races. Humans have largest diversity of genotype, cultuand personal attitude than any of other races. Humans are considered higadaptable and frustratinunpredictable. They may have shorlifespans, but they learn quickly. Ind they are the most versatile potentially the most powerful choice aBasic Race.",
-      "fullBlood": {
-        "fbDesc": "A Character with two Human parents gains +2 Training Points.",
-        "fbBonus": {
-          "fbHasBonus": true,
-          "fbBonusType": "training points",
-          "fbBonusAmount": 2
-        }
-      },
-      "raceSpecial": {
-        "specialDesc": "Characters with Human Heritage gain +2 Training Points.",
-        "specialAb": "fast learner"
-      },
-      "traits": {
-        "size": "m",
-        "speed": 30,
-        "avgHeight": 65,
-        "avgWeight": 150,
-        "avgLifespan": 65
-      },
-      "maternal": {
-        "maternalRace": "human",
-        "maternalType": "Human",
-        "maternalDesc": "Your natural mother was Ellish.",
-        "maternalName": "Noble Born",
-        "maternalAb": "spiritual",
-        "maternalAbBonus": 1
-      },
-      "paternal": {
-        "paternalRace": "human",
-        "paternalType": "Human",
-        "paternalDesc": "Your natural father was Ellish.",
-        "paternalName": "Noble Sired",
-        "paternalAb": "physical",
-        "paternalAbBonus": 1
-      }
+    "paternal": {
+      "paternalRace": "dwarf",
+      "paternalType": "Dur",
+      "paternalDesc": "Your natural father was Dur.",
+      "paternalName": "Anvil Sired",
+      "paternalAb": "physical",
+      "paternalAbBonus": 1
     }
+  },
+  {
 
-  ]
+    "id": "elf",
+    "raceName": "N'Athi",
+    "raceDesc": "The N'Athi (called elves by most humans) are thought to be one of the oldest races found in the world.  Certainly, most of their cultural traditions have survived for many thousands of years. In appearance, N'Athi tend to be slender with fine, almost delicate features and long, dexterous fingers.  Their eyes are always large and almond shaped.  Their ears are narrow and sharply pointed.  All elves have finely honed senses.  They are observant and have keenly analytical minds.  As a result, most elves are thoughtful and generaly opposed to taking action without comprehensive thought and planning.  N'Athi may share a minor type of mystic bond with other members of their family and, to some extent, other elves.  As a result, they tend to have some limited empathic telepathy with those for whom they hold such bonds.  They know, vaguely, the direction in which any family member is located at any given time and have a general impression of that member’s well-being.",
+    "fullBlood": {
+      "fbDesc": "A Character with two Elven parents gains a +4 racial bonus to Physical Perception checks.",
+      "fbBonus": {
+        "fbHasBonus": true,
+        "fbBonusType": "perception",
+        "fbBonusAmount": 4
+      }
+    },
+    "raceSpecial": {
+      "specialDesc": "Characters at least one Elven parent gain the ability to rest without having to sleep.",
+      "specialAb": "reverie"
+    },
+    "traits": {
+      "size": "m",
+      "speed": 30,
+      "avgHeight": 56,
+      "avgWeight": 105,
+      "avgLifespan": 500
+    },
+    "maternal": {
+      "maternalRace": "elf",
+      "maternalType": "N'Athi",
+      "maternalDesc": "Your natural mother was N'Athi.",
+      "maternalName": "Fae Born",
+      "maternalAb": "spiritual",
+      "maternalAbBonus": 1
+    },
+    "paternal": {
+      "paternalRace": "elf",
+      "paternalType": "N'Athi",
+      "paternalDesc": "Your natural father was N'Athi.",
+      "paternalName": "Fae Sired",
+      "paternalAb": "physical",
+      "paternalAbBonus": 1
+    }
+  },
+  {
+
+    "id": "gnome",
+    "raceName": "Gnomentaug",
+    "raceDesc": "Gnometaug (referred to by most as Gnomes) are a strange race of small, intelligent humanoids. They have keen minds and skilled hands. Gnomes are friendly and forgiving, but they are easily excitable. Most Gnomes prefer bright colors and interesting hairstyles.",
+    "fullBlood": {
+      "fbDesc": "A Character with two Gnomish parents gains a +4 bonus to Mental Defense roll results.",
+      "fbBonus": {
+        "fbHasBonus": true,
+        "fbBonusType": "Mental Defense",
+        "fbBonusAmount": 4
+      }
+    },
+    "raceSpecial": {
+      "specialDesc": "Characters with at least one Gnomish parent gain the ability to take two Standard Actions as one Full Round Action once per encounter",
+      "specialAb": "multi-task"
+    },
+    "traits": {
+      "size": "s",
+      "speed": 20,
+      "avgHeight": 25,
+      "avgWeight": 50,
+      "avgLifespan": 250
+    },
+    "maternal": {
+      "maternalRace": "gnome",
+      "maternalType": "Gnomentaug",
+      "maternalDesc": "Your natural mother was a Gnome.",
+      "maternalName": "Genius Born",
+      "maternalAb": "mental",
+      "maternalAbBonus": 1
+    },
+    "paternal": {
+      "paternalRace": "gnome",
+      "paternalType": "Gnomentaug",
+      "paternalDesc": "Your natural father was a Gnome.",
+      "paternalName": "Genius Sired",
+      "paternalAb": "mental",
+      "paternalAbBonus": 1
+    }
+  },
+  {
+
+    "id": "halflings",
+    "raceName": "Gor",
+    "raceDesc": "Halflings, or Gor as they would rather be called, are a race of short, cheerful humanoids that appear to look almost like human children.  All are overwhelmingly family and community oriented.  As a race, they are mostly friendly, helpful, and talkative. Halflings display a strong trait of naïve optimism. Seemingly contrary to their somewhat childlike nature, Gor can be intensely serious and dedicated when necessary. They are a pleasant race with deep reserves of quiet strength and determination. In appearance, they are very similar to humans except for slightly pointed ears and large, tough-soled feet.",
+    "fullBlood": {
+      "fbDesc": "A Character with two Gor parents gains a +4 bonus to Physical Defense roll results.",
+      "fbBonus": {
+        "fbHasBonus": true,
+        "fbBonusType": "Physical Defense",
+        "fbBonusAmount": 4
+      }
+    },
+    "raceSpecial": {
+      "specialDesc": "Characters with Gor Heritage gain the ability to communicate with rodents.",
+      "specialAb": "squirrel speak"
+    },
+    "traits": {
+      "size": "s",
+      "speed": 20,
+      "avgHeight": 36,
+      "avgWeight": 80,
+      "avgLifespan": 100
+    },
+    "maternal": {
+      "maternalRace": "halfmen",
+      "maternalType": "Gor",
+      "maternalDesc": "Your natural mother was Hammid.",
+      "maternalName": "Hearth Born",
+      "maternalAb": "physical",
+      "maternalAbBonus": 1
+    },
+    "paternal": {
+      "paternalRace": "halfmen",
+      "paternalType": "Gor",
+      "paternalDesc": "Your natural father was Hammid.",
+      "paternalName": "Hearth Sired",
+      "paternalAb": "spiritual",
+      "paternalAbBonus": 1
+    }
+  },
+  {
+
+    "id": "human",
+    "raceName": "Human",
+    "raceDesc": "In general, humans are the most dominant race throughout the world. They are considered to be one of youngest of the races. Humans have the largest diversity of genotypes, cultures, and personal attitudes when compared to the other races. Humans are considered highly adaptable and frustratingly unpredictable. They may have short lifespans, but they learn quickly. Indeed, they are the most versatile and potentially the most powerful choice as a character race.",
+    "fullBlood": {
+      "fbDesc": "A Character with two Human parents gains +2 Training Points.",
+      "fbBonus": {
+        "fbHasBonus": true,
+        "fbBonusType": "training points",
+        "fbBonusAmount": 2
+      }
+    },
+    "raceSpecial": {
+      "specialDesc": "Characters with at least one Human parent gain +2 Training Points.",
+      "specialAb": "fast learner"
+    },
+    "traits": {
+      "size": "m",
+      "speed": 30,
+      "avgHeight": 65,
+      "avgWeight": 150,
+      "avgLifespan": 65
+    },
+    "maternal": {
+      "maternalRace": "human",
+      "maternalType": "Human",
+      "maternalDesc": "Your natural mother was Human.",
+      "maternalName": "Mortal Born",
+      "maternalAb": "spiritual",
+      "maternalAbBonus": 1
+    },
+    "paternal": {
+      "paternalRace": "human",
+      "paternalType": "Human",
+      "paternalDesc": "Your natural father was Human.",
+      "paternalName": "Mortal Sired",
+      "paternalAb": "physical",
+      "paternalAbBonus": 1
+    }
+  }
+
+]
