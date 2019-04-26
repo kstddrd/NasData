@@ -1,5 +1,5 @@
   [{
-      "cultureId": 1,
+      "cultureId": "Ang1",
       "cultureTitle": "Ang of Fal Doure",
       "culturePrereq": "human",
       "cultureDesc": "The Ang people were once the proud rulers of central Nas’Arial.  Their culture reaches back to the second Fithian Empire.  The Ang inherited the power of that empire.  Ang Sorcerer Kings dominated life in much of Nas’Arial for centuries until their final defeat at the end of the Mage Wars.  The Ang of Fal Doure sold their birthright for their survival as a people.  At one time the Ang people of Fal Doure were the rulers of current day Fal, Neb, Dar, and El.  During the Mage Wars, they submitted to the Ellid King and fought against the minions of Kourren the Corrupted.  For this, they were permitted to stay in Fal Doure and live under Ellid rule.  All Ang are now forbidden from studying or practicing Arcane Magic. Most Ang despise the idea of worshiping a deity.",
@@ -15,7 +15,7 @@
       "cultureNote": "Ang heritage characters gain a +4 bonus to all Strategy skill check rolls."
     },
     {
-      "cultureId": 2,
+      "cultureId": "Ang2",
       "cultureTitle": "Ang of Jetta Doure",
       "culturePrereq": "human",
       "cultureDesc": "The Ang were once the proud rulers of central Nas’Arial.  Their culture reaches back to the second Fithian Empire.  They inherited the power of that empire.  Ang Sorcerer Kings dominated life in much of Nas’Arial for centuries until their final defeat at the end of the Mage Wars.  The Ang people of Jetta Doure are the remnants of those who followed the rule of Kourren the Corrupted.  Many of those who survived the Mage Wars were rounded up and forced into controlled communities located throughout the scar lands of Jetta Doure.  Under Ellid Law, magic using Ang are hunted down and executed.  The modern Ang have no real political structure.  Some are allowed to leave the camps and find opportunities in the civilized towns of settled Jetta Doure.  Their cultural hatred for the Ellid Empire and its High Holy Orders is a living, palpable thing.  Most Ang long for the day when Ellida Imperia is ground to dust as the Ang ascend to their rightful place as the true rulers of Nas’Arial.",
@@ -31,7 +31,7 @@
       "cultureNote": "Ang heritage characters gain a +4 bonus to all Strategy Skill skill check rolls."
     },
     {
-      "cultureId": 3,
+      "cultureId": "Ardur",
       "cultureTitle": "Ardurran Heritage",
       "culturePrereq": "dwarf",
       "cultureDesc": "The Ardur are the descendants of those Dur who decided to make a life above the “blessed stones”.  The Ardur have lived and participated in the societies of Nas’Arial for thousands of years.  They value honesty and hard work.  They are a strong cultural unit, but they mingle freely with the other civilized races.  Their craftsmen are a valued commodity throughout the Ellid Empire.  They are loyal to regional rule, but still listen to their own Durthanes and still pay homage to the King of Bargendelph.  Most Ardur participate in the traditional Dur worship of the “Four”, but some have converted to the various High Holy Orders of the Ellid faith.",
@@ -47,7 +47,7 @@
       "cultureNote": "All Ardurran Heritage characters gain a +4 cultural bonus to all Craft skill check rolls."
     },
     {
-      "cultureId": 4,
+      "cultureId": "Nammagh",
       "cultureTitle": "Nammagh Citizen",
       "culturePrereq": "any",
       "cultureDesc": "The City State of Nammagh is the oldest of the modern style metropolises of Nas’Arial.  Nammagh was founded over 2,500 years ago.  It is the oldest common free market.  It was originally settled by Dur who wanted a safe place to barter for Nam.  The city still carries its Dwarvish character, but is truly a cosmopolitan metropolis.  Nammagh is the birthplace of modern wizardry in Nas’Arial.  The first college dedicated to the Arcane Arts and Sciences was founded in Nammagh by Borgryn “Dursyl” Redhelm over 1,000 years ago.  The citizens of Nammagh live under the rule of Peace.  Anyone who sheds even a drop of another’s blood is doomed to be executed.  This law has kept the peace for most all of Nammagh’s history.  Although the High Holy Orders have a large presence in modern Nammagh, representatives from just about every known faith or sect can be found there.",
@@ -63,7 +63,7 @@
       "cultureNote": "Nammash characters gain a +2 cultural bonus to all Academic Skills skill check rolls."
     },
     {
-      "cultureId": 5,
+      "cultureId": "Darrish",
       "cultureTitle": "Darrish Heritage",
       "culturePrereq": "human",
       "cultureDesc": "The Dar-Kellash people have long been tied to the sea.  The clans of Dar have been at the crossroads of several cultures for many centuries.  They are a nation of merchants and fishermen.  Over time, they came to rely less on their strongest warriors and more on their cleverest merchants.  There still remains a division between the Kellag and the Kellash, but it is less about military power and more about economics.  The Dar-Kells are an integrated part of the Imperial structure.  Most have converted whole heartedly to the High Holy Orders, especially the orders of Mael, Upsol, and Heshlah.",
@@ -79,7 +79,7 @@
       "cultureNote": "All Darrish Heritage characters gain a +4 bonus to all Barter skill check rolls."
     },
     {
-      "cultureId": 6,
+      "cultureId": "Ellid",
       "cultureTitle": "Ellid Heritage",
       "culturePrereq": "human",
       "cultureDesc": "Ellid cultural history reaches back for thousands of years to the ancient lands of Loria.  Ellid society is organized around the militaristic feudal system of economy and governance.  Ellid citizens recognize the Ellid Emperor as the true and rightful ruler of Nas’Arial.  Those of Ellid heritage hold faith in the High Holy Orders of the Ellid Pantheon.  The Imperial Sects of Solaris, Kem, Iost, Tira, and others are the true Ellid guides for moral order.",
@@ -95,7 +95,7 @@
       "cultureNote": "Ellid characters gain a +2 cultural bonus to all Sacred Skills skill check rolls."
     },
     {
-      "cultureId": 7,
+      "cultureId": "Ara",
       "cultureTitle": "Ara'N'Athi Heritage",
       "culturePrereq": "elf",
       "cultureDesc": "The Ara N’Athi elves, or “high elves”, have inhabited small communities throughout Nas’Arial since the end of the second Gods’ War.  Some claim that the Ara are haughty and treat other races like children.  The Ara would claim that they are burdened with the wisdom of long lives.  They see the other races as equal, but perpetually unaware of the larger picture.  Their enclaves are often within the communities of other nations.  The few small communities that exist individually are led by a council of noble elder mages.  Religion is not a strong or cohesive factor in Ara culture.  Many Ara have taken up with various religious orders, but no one faith seems to have any strong cultural hold.",
@@ -111,7 +111,7 @@
       "cultureNote": "All Ara’N’Athi Heritage characters gain a +2 cultural bonus to all Arcanist Skills skill check rolls."
     },
     {
-      "cultureId": 8,
+      "cultureId": "Frontier",
       "cultureTitle": "Frontier Heritage",
       "culturePrereq": "any",
       "cultureDesc": "Those raised outside of society often don’t have the same cultural training and unity of those who are part of a larger community.  One raised on the frontiers of civilization is taught to survive in the wilds.  Frontier communities are usually quite small, often only a single family group.  Life is a daily struggle for many of these people.  Nature is the greatest influence on a child growing up in such a situation.  There is no particular political structure in most of these communities.  There may be any kind of religious belief found in such places, but there is also a constant and healthy respect for the omnipresent natural forces.",
@@ -127,7 +127,7 @@
       "cultureNote": "Frontier Heritage characters gain a +4 cultural bonus to all Nature Lore skill check rolls."
     },
     {
-      "cultureId": 9,
+      "cultureId": "Giet",
       "cultureTitle": "Giet’tan Heritage",
       "culturePrereq": "human",
       "cultureDesc": "The Giet’Tan have lived on the grassy plains of southern Nas’Arial for a long age.  Originally a nomadic herding culture, the settled ‘Getts’ continue to value their herds and still make journeys to their ancient sacred sites.  They feel tied to the sacred lands of their birth.  Their communities are headed by the clan elders.  They may recognize imposed overlords, but do not care about the workings of politics outside of their small villages and tent communities.  They are earnest farmers and great lovers of the land.  They worship in an agriculturally based Nosic way.  They also follow a form of Ancestor worship referred to as Giet’Se.",
@@ -143,7 +143,7 @@
       "cultureNote": "Geit'Tan characters gain a +2 cultural bonus to all Nature Lore skill check rolls."
     },
     {
-      "cultureId": 10,
+      "cultureId": "Gnomish",
       "cultureTitle": "Gnomish Heritage",
       "culturePrereq": "gnome",
       "cultureDesc": "The Gnomes have fit into every civilized society of Nas’Arial, yet have maintained their cultural identity.  Gnomes teach the value of scholarship and research.  Gnome sages seek to advance the limits of knowledge while gnome engineers stretch the bounds of technological possibility.  Gnomes believe in debate and enlightened cooperation.  They aren’t very competitive.  When it comes to personal business, they have a “live and let live” philosophy.  Gnome communities and enclaves are administered by elected bureaucrats who oversee the mounds of paperwork generated by their small bureaucracies.  If they have a faith, gnomes tend to favor gods of knowledge or craft.",
@@ -159,7 +159,7 @@
       "cultureNote": "Gnomish heritage characters gain a +4 cultural bonus to all Building Lore and Mechanical Lore skill check rolls."
     },
     {
-      "cultureId": 11,
+      "cultureId": "Hammid",
       "cultureTitle": "Hammid Farmer",
       "culturePrereq": "halfmen",
       "cultureDesc": "The Hammids, or settled Gor, live an ideal country life.  They have privacy and social community.  They work hard, but have plenty of leisure time for gentle pursuits.  They are friendly, but not overly demonstrative.  They are great hosts, and excellent cooks.  All Hammish people love food and every aspect of its production, preparation, and consumption.  Hammid communities are run by town hall meetings administrated by a locally elected village alderman.  A majority of the Hammids are devoted to the goddess Tira.  Most follow the Imperial sect of the High Holy Order of Tira.",
@@ -175,7 +175,7 @@
       "cultureNote": "Hammish gain a +4 cultural bonus to all Animal Lore and Herbal Lore skill check rolls."
     },
     {
-      "cultureId": 12,
+      "cultureId": "Metro",
       "cultureTitle": "Imperial Metropolitan",
       "culturePrereq": "any",
       "cultureDesc": "Life within the grand Imperial cities, especially the Capitol, has developed its own culture.  Metropolitans care little for what goes on beyond the walls of their civic world.  Theirs is a culture of commerce and politics, crime and corruption.  The city may be ruled by a Noble Lord, but districts and enclaves are ruled by councilors, guild masters, and crime lords.  Most metropolitans give homage to the High Holy Orders, but many cults, sects, and religions may be found in an Imperial Metropolis.",
@@ -191,7 +191,7 @@
       "cultureNote": "Metropolitan characters gain a +2 cultural bonus to all Social Skill check rolls."
     },
     {
-      "cultureId": 13,
+      "cultureId": "Kalfan",
       "cultureTitle": "Kalfan Islander",
       "culturePrereq": "human",
       "cultureDesc": "Kalfan culture is based on sea travel and trade.  Kalfan people value adventure and wealth.  They are always looking for something new to see and sell.  The Kalfan homeland is the Golden Isles far off the southeastern coast of Nas’Arial.  Kalfan communities exist as independent city states ruled by various Merchant Clans.  The major population of Kalfs living in Nas’Arial is based on the Island of Gratte.  The Island of Gratte, by treaty, is under Imperial Rule but run by a powerful Kalfan Merchant Clan.  The Kalfs follow their own cultural sects of Mael, Nixtia, and Heshlah.",
@@ -207,7 +207,7 @@
       "cultureNote": "All Kalfan characters gain a +4 cultural bonus to all Appraise Value and Navigation skill check rolls."
     },
     {
-      "cultureId": 14,
+      "cultureId": "Kellag",
       "cultureTitle": "Kellag",
       "culturePrereq": "human",
       "cultureDesc": "Kellag culture dominated Northeastern Nas’Arial for hundreds of years before the coming of the Ellid Kings.  Kellag society is based on a caste system of the two Kell peoples, a system of Kellag rule and Kellash service.  Long ago, the Kellag rulers bent the knee to Ellid Nobles.  Since then, the Kellag Thanes have been absorbed into the system as part of the Ellid Noble Structure.  Most Kellag people recognize the King of El as the true and rightful ruler of Nas’Arial and give offerings to the Ellid gods while still recognizing the Old Ways.  As important as religion might seem to others, the thrill of a life well lived is at the heart of Kellag Culture.  Hunting, Feasting, and Combat:  these are the mainstays of Kellag life.",
@@ -223,7 +223,7 @@
       "cultureNote": "Kellag characters gain a +2 cultural bonus to all Combat Skills skill check rolls."
     },
     {
-      "cultureId": 15,
+      "cultureId": "Kellash",
       "cultureTitle": "Kellash Heritage",
       "culturePrereq": "human",
       "cultureDesc": "The Kellash are part of the caste system of the two Kellish races, a system of Kellag rule and Kellash service.  Long ago, the Kellag rulers bent the knee to Ellid Nobles.  Since then, the Kellash peasants have been absorbed into the system as part of the Ellid social structure.  They current Kellash are a mixed culture of old Kellag and new Ellid ways. Many have mixed El and Kell bloodlines.  They have even evolved a new spoken language of their own, Kellish.  Kellish is a mix of Kellagash, Ellic, and Nammash with some other bit included. In addition to Nor Doure, Kellash culture makes up the bulk of the common folk in the main imperial realms of El, Neb, and Dar.",
@@ -239,7 +239,7 @@
       "cultureNote": "Kellash characters also gain a +4 cultural bonus to all Perform skill check rolls."
     },
     {
-      "cultureId": 16,
+      "cultureId": "Konari",
       "cultureTitle": "Konari Heritage",
       "culturePrereq": "any",
       "cultureDesc": "The Konari live on the Isle of Kon Siddah.  Theirs is a heritage of mixed cultures and ideas.  The importance of craft and trade are paramount to Konari tradition.  Konari communities are run by elected councils made up of leading members of the local Trade Guilds.  Although Kon Siddah is under Imperial Rule, the region is run locally as a Trade Republic.  Many religious traditions can be found on Kon Siddah.  Most prominently are the High Holy Orders of Espa, Heshlah, and Iost.",
@@ -255,7 +255,7 @@
       "cultureNote": "The Konari tradition of trade means that all Konari characters gain a +4 cultural bonus to Craft skill check rolls."
     },
     {
-      "cultureId": 17,
+      "cultureId": "Marrish",
       "cultureTitle": "Marrish",
       "culturePrereq": "human",
       "cultureDesc": "An ancient island culture, the Marrish have developed a strong sense of ethnic pride.  In spite of this, they are an open and friendly people.  Arcane magic is a strong part of Marrish culture.  Most Marrish have at least a small amount of magic talent.  Their communities are run by elected conclaves of powerful mages.  Mar Siddah, their homeland, is a Republic of elected representatives from such communities.  Mar Siddah has tolerant and sometimes friendly relations with the Ellid Empire.  The Marrish follow the sacred teachings from their own Temples of Mael and Nixtia, even though the High Holy Orders do maintain small missions throughout the Marrish Islands.",
@@ -271,7 +271,7 @@
       "cultureNote": "Marrsih characters gain a +2 cultural bonus to all Arcanist Skills skill check rolls."
     },
     {
-      "cultureId": 18,
+      "cultureId": "Radur",
       "cultureTitle": "Radurran Heritage",
       "culturePrereq": "dwarf",
       "cultureDesc": "Radurran culture is nearly as old as the stones themselves.  The Radur ways are the ways of mining and forging.  Their long years in the “earth below” have made them into superb warriors and soldiers.  The central Radur community is the metropolis of Bargendelph. Small clan communities are led by a Durthane.  The council of Durthags elects a regional king.  The king’s clan holds hereditary power unless the council deposes the king and installs a new one.  The regional kings elect the High King in much the same way.  The Radur worship the four Dur Gods of the Creation - Depghaad, Glaghaad, Aeirghaada, and Vasghaada.",
@@ -287,7 +287,7 @@
       "cultureNote": "Radurran characters have a +4 cultural bonus to all Craft skill check rolls."
     },
     {
-      "cultureId": 19,
+      "cultureId": "Syl",
       "cultureTitle": "Syl'N'Athi Heritage",
       "culturePrereq": "elf",
       "cultureDesc": "The Syl’N’Athi, or forest elves, came over the mountains and into Nas’Arial about 5,000 years ago.  Theirs is a culture of harmonic codependence with the forest.  They tolerate some races, but strongly dislike outsiders in their lands.  They are serious guardians and warriors when challenged, but at heart they are a fun loving and happy people.  They have prohibitions against the practice of Arcane Magic among their populace.  Syl who wish to study such magic must leave their homeland and seek knowledge from the outside world.  Syl communities are small and guided by their local Nosic druid.  The Syl people are united under the guidance of the Council of Leaves.  Syl’N’Athi are almost entirely Nosic in faith.",
@@ -303,7 +303,7 @@
       "cultureNote": "Syl'N'Athi characters gain a +4 cultural bonus to all Nature Lore skill check rolls."
     },
     {
-      "cultureId": 20,
+      "cultureId": "Wandering",
       "cultureTitle": "Wandering Gor",
       "culturePrereq": "halfmen",
       "cultureDesc": "The Wandering Gor are viewed by most of Ellida with about as much affection as a case of the hives.  They wander about in groups small and large looking for adventure and seeking new things.  In order to lessen their unpopularity among the settled peoples, many Wanderers join circuses and traveling shows.  They are natural performers.  They have no real political structure.  Family groups connect for short periods of time and work together.  Wanderers have no unifying faith. They usually explore many faiths in their lifetime search for new experiences.",
