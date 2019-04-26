@@ -17,7 +17,7 @@
     "traits": {
       "size": "m",
       "speed": 20,
-      "avgHeight": 45,
+      "avgHeight": 54,
       "avgWeight": 230,
       "avgLifespan": 350
     },
@@ -58,7 +58,7 @@
     "traits": {
       "size": "m",
       "speed": 30,
-      "avgHeight": 56,
+      "avgHeight": 60,
       "avgWeight": 105,
       "avgLifespan": 500
     },
@@ -99,7 +99,7 @@
     "traits": {
       "size": "s",
       "speed": 20,
-      "avgHeight": 25,
+      "avgHeight": 30,
       "avgWeight": 50,
       "avgLifespan": 250
     },
@@ -181,7 +181,7 @@
     "traits": {
       "size": "m",
       "speed": 30,
-      "avgHeight": 65,
+      "avgHeight": 66,
       "avgWeight": 150,
       "avgLifespan": 65
     },
