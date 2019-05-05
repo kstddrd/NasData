@@ -80,7 +80,6 @@
     }
   },
   {
-
     "id": "gnome",
     "raceName": "Gnomentaug",
     "raceDesc": "Gnometaug (referred to by most as Gnomes) are a strange race of small, intelligent humanoids. They have keen minds and skilled hands. Gnomes are friendly and forgiving, but they are easily excitable. Most Gnomes prefer bright colors and interesting hairstyles.",
@@ -117,6 +116,46 @@
       "paternalDesc": "Your natural father was a Gnome.",
       "paternalName": "Genius Sired",
       "paternalAb": "mental",
+      "paternalAbBonus": 1
+    }
+  },
+  {
+    "id": "goblyn",
+    "raceName": "Goblyn",
+    "raceDesc": "Goblyns live on the fringes of society. Large numbers are found in the wild and on the Frontiers. The sewers and shanty towns of the large cities team with them. They often find work doing the distasteful jobs that others refuse. Goblyns are tend to be sneaky, sly, and clever. Goblyns in the wild are vicious, yet cowardly, bandits. They will only attack in overwhelming numbers. Goblyns are short with sometimes exaggerated and twisted features. Their arms, legs, and fingers are bony and spindly, while their torsos tend to be stocky and pear shaped. They have small, slanted eyes and overly large, sharply pointed ears. Their yellow-green colored skin is rough and warty.",
+    "fullBlood": {
+      "fbDesc": "A Character with two Goblyn parents gains a +4 bonus to all Ticker value results.",
+      "fbBonus": {
+        "fbHasBonus": true,
+        "fbBonusType": "Ticker Value",
+        "fbBonusAmount": 4
+      }
+    },
+    "raceSpecial": {
+      "specialDesc": "Characters with at least one Goblyn parent gain the ability to climb or move silently at normal Move speed.",
+      "specialAb": "stealthy movement"
+    },
+    "traits": {
+      "size": "s",
+      "speed": 20,
+      "avgHeight": 36,
+      "avgWeight": 50,
+      "avgLifespan": 150
+    },
+    "maternal": {
+      "maternalRace": "goblyn",
+      "maternalType": "Goblyn",
+      "maternalDesc": "Your natural mother was a Goblyn.",
+      "maternalName": "Sewer Born",
+      "maternalAb": "mental",
+      "maternalAbBonus": 1
+    },
+    "paternal": {
+      "paternalRace": "goblyn",
+      "paternalType": "Goblyn",
+      "paternalDesc": "Your natural father was a Goblyn.",
+      "paternalName": "Sewer Sired",
+      "paternalAb": "physical",
       "paternalAbBonus": 1
     }
   },
@@ -162,7 +201,6 @@
     }
   },
   {
-
     "id": "human",
     "raceName": "Human",
     "raceDesc": "In general, humans are the most dominant race throughout the world. They are considered to be one of youngest of the races. Humans have the largest diversity of genotypes, cultures, and personal attitudes when compared to the other races. Humans are considered highly adaptable and frustratingly unpredictable. They may have short lifespans, but they learn quickly. Indeed, they are the most versatile and potentially the most powerful choice as a character race.",
@@ -198,6 +236,46 @@
       "paternalType": "Human",
       "paternalDesc": "Your natural father was Human.",
       "paternalName": "Mortal Sired",
+      "paternalAb": "physical",
+      "paternalAbBonus": 1
+    }
+  },
+  {
+    "id": "orc",
+    "raceName": "Orc",
+    "raceDesc": "Orcs are generally a short lived, violent race of goblynoid warriors who thrive on action and combat. Most Orcs are tall and stout with small eyes, sharp fangs, rough skin, and ragged pointy ears. Orcs are tend to be naturally impatient, quick tempered, and selfish.",
+    "fullBlood": {
+      "fbDesc": "A Character with two Orc parents gains +2 to all Melee attack rolls.",
+      "fbBonus": {
+        "fbHasBonus": true,
+        "fbBonusType": "melee",
+        "fbBonusAmount": 2
+      }
+    },
+    "raceSpecial": {
+      "specialDesc": "Characters with at least one Orc parent deals +2 points of additional damage with each successful melee attack roll.",
+      "specialAb": "violent"
+    },
+    "traits": {
+      "size": "m",
+      "speed": 30,
+      "avgHeight": 78,
+      "avgWeight": 200,
+      "avgLifespan": 45
+    },
+    "maternal": {
+      "maternalRace": "orc",
+      "maternalType": "Orc",
+      "maternalDesc": "Your natural mother was Orc.",
+      "maternalName": "Rage Born",
+      "maternalAb": "physical",
+      "maternalAbBonus": 1
+    },
+    "paternal": {
+      "paternalRace": "orc",
+      "paternalType": "Orc",
+      "paternalDesc": "Your natural father was Orc.",
+      "paternalName": "Rage Sired",
       "paternalAb": "physical",
       "paternalAbBonus": 1
     }
