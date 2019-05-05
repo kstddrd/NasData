@@ -205,7 +205,7 @@
     },
     {
       "cultureId": "Kellag",
-      "cultureTitle": "Kellag",
+      "cultureTitle": "Kellag Heritage",
       "culturePrereq": "Human",
       "cultureDesc": "Kellag culture dominated Northeastern Nas’Arial for hundreds of years before the coming of the Ellid Kings.  Kellag society is based on a caste system of the two Kell peoples, a system of Kellag rule and Kellash service.  Long ago, the Kellag rulers bent the knee to Ellid Nobles.  Since then, the Kellag Thanes have been absorbed into the system as part of the Ellid Noble Structure.  Most Kellag people recognize the King of El as the true and rightful ruler of Nas’Arial and give offerings to the Ellid gods while still recognizing the Old Ways.  As important as religion might seem to others, the thrill of a life well lived is at the heart of Kellag Culture.  Hunting, Feasting, and Combat:  these are the mainstays of Kellag life.",
       "cultureLook": "Kellags are broad and strong. They have ruddy, freckled skin with thick, curly black hair and dark eyes.",
@@ -256,7 +256,7 @@
     },
     {
       "cultureId": "Marrish",
-      "cultureTitle": "Marrish",
+      "cultureTitle": "Marrish Heritage",
       "culturePrereq": "Human",
       "cultureDesc": "An ancient island culture, the Marrish have developed a strong sense of ethnic pride.  In spite of this, they are an open and friendly people.  Arcane magic is a strong part of Marrish culture.  Most Marrish have at least a small amount of magic talent.  Their communities are run by elected conclaves of powerful mages.  Mar Siddah, their homeland, is a Republic of elected representatives from such communities.  Mar Siddah has tolerant and sometimes friendly relations with the Ellid Empire.  The Marrish follow the sacred teachings from their own Temples of Mael and Nixtia, even though the High Holy Orders do maintain small missions throughout the Marrish Islands.",
       "cultureLook": "Marrish are dark skinned with jet black hair and bright, sometimes violet, eyes.",
@@ -290,7 +290,7 @@
     },
     {
       "cultureId": "Sewer",
-      "cultureTitle": "Sewer Goblyn",
+      "cultureTitle": "Sewer Goblyn Heritage",
       "culturePrereq": "Goblyn",
       "cultureDesc": "Often called Squeakers by most, these muck dwelling denizens of the Imperial underbelly have a heritage of degradation and crime. They live among the civilized, but practice a life of quiet savagery. The small Goblyn enclaves within the larger cities are run by the strongest and smartest of the Goblyns. If they have a faith, it is usually in some vile and disgusting cult. Even though they live in smaller clan like communities, they are linked together into what they refer to as the Kindom of the Sewers.",
       "cultureLook": "Squeakers tend to have dull yellow to greenish brown colored skin with little or no hair. ",
@@ -307,7 +307,7 @@
     },
     {
       "cultureId": "Steel",
-      "cultureTitle": "Steel Orc",
+      "cultureTitle": "Steel Orc Heritage",
       "culturePrereq": "Orc",
       "cultureDesc": "The Steel Orcs created an organized, fanatically religious military society. They rule over lesser orcs and other races of Ghurad-Uhle and beyond from their fortress city of Grad Uht Orog. They have some respect for the military of Ellida. They have been at war with Ellida off and on for over 350 years. The Steel Orcs are ruled by a demigod king, usually the strongest half mortal son of their ancient dragon god Raath. Since all Steel Orcs claim to have the Blood of Raath, it is needless to mention their fanatic devotion to that god.",
       "cultureLook": "Steel Orcs are taller than other orcs with grey skin and dark silver hair. They have yellow orange eyes.",
@@ -341,7 +341,7 @@
     },
     {
       "cultureId": "Wandering",
-      "cultureTitle": "Wandering Gor",
+      "cultureTitle": "Wandering Gor Traveler",
       "culturePrereq": "Gor",
       "cultureDesc": "The Wandering Gor are viewed by most of Ellida with about as much affection as a case of the hives.  They wander about in groups small and large looking for adventure and seeking new things.  In order to lessen their unpopularity among the settled peoples, many Wanderers join circuses and traveling shows.  They are natural performers.  They have no real political structure, but join together is loose extended family groups that they call The Fellowship of the Roads.  Family groups connect for short periods of time and work together.  Wanderers have no unifying faith. They usually explore many faiths in their lifetime search for new experiences.",
       "cultureLook": "",
