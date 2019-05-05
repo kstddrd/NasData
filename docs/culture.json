@@ -17,6 +17,23 @@
       "cultureNote": "Ang heritage characters gain a +4 bonus to all Strategy Skill skill check rolls."
     },
     {
+      "cultureId": "Ara",
+      "cultureTitle": "Ara'N'Athi Heritage",
+      "culturePrereq": "N'Athi",
+      "cultureDesc": "The Ara N’Athi elves, or “high elves”, have inhabited small communities throughout Nas’Arial since the end of the second Gods’ War.  Some claim that the Ara are haughty and treat other races like children.  The Ara would claim that they are burdened with the wisdom of long lives.  They see the other races as equal, but perpetually unaware of the larger picture.  Their enclaves are often within the communities of other nations.  The few small communities that exist individually are led by a council of noble elder mages.  Religion is not a strong or cohesive factor in Ara culture.  Many Ara have taken up with various religious orders, but no one faith seems to have any strong cultural hold.",
+      "cultureLook": "The Ara'N'Athi are taller than average with pale complexions. Their hair is blonde, reddish blonde, or light brown. They have almond shaped eyes of blue, violet, or grey.",
+      "cultureFaction": "Ara'N'Athi Concordance",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Alnaranir",
+      "addLang": [
+        "Alsylnir", "Ellic", "Marrin", "Kellagash", "Kellish", "Kalfar", "Monaric", "Nammash", "Gobnarse", "Gnomish", "Durric", "Akric"
+      ],
+      "cultureBenDesc": "Ara'N'Athi characters are trained to sense arcane magic. All Ara'N'Athi characters gain the Sense Arcana Feature as a Cultural Ability.",
+      "cultureBenType": "feature",
+      "cultureBenNum": 0,
+      "cultureNote": "All Ara’N’Athi Heritage characters gain a +2 cultural bonus to all Arcanist Skills skill check rolls."
+    },
+    {
       "cultureId": "Ardur",
       "cultureTitle": "Ardurran Heritage",
       "culturePrereq": "Dur",
@@ -28,27 +45,27 @@
       "addLang": [
         "Stonespeak", "Kellish", "Nammash", "Kellagash", "Uroggar", "Gnomish", "Gobnarse"
       ],
-      "cultureBenDesc": "The Ardur have access to greater wealth due to their long history as talented merchants and craftsmen.",
+      "cultureBenDesc": "The Ardur have access to greater wealth due to their long history as talented merchants and craftsmen. Ardur characters gain +4 to their starting Wealth roll result.",
       "cultureBenType": "wealth",
-      "cultureBenNum": 2,
+      "cultureBenNum": 4,
       "cultureNote": "All Ardurran Heritage characters gain a +4 cultural bonus to all Craft skill check rolls."
     },
     {
-      "cultureId": "Nammagh",
-      "cultureTitle": "Nammagh Citizen",
-      "culturePrereq": "any",
-      "cultureDesc": "The City State of Nammagh is the oldest of the modern style metropolises of Nas’Arial.  Nammagh was founded over 2,500 years ago.  It is the oldest common free market.  It was originally settled by Dur who wanted a safe place to barter for Nam.  The city still carries its Dwarvish character, but is truly a cosmopolitan metropolis.  Nammagh is the birthplace of modern wizardry in Nas’Arial.  The first college dedicated to the Arcane Arts and Sciences was founded in Nammagh by Borgryn “Dursyl” Redhelm over 1,000 years ago.  The citizens of Nammagh live under the rule of Peace.  Anyone who sheds even a drop of another’s blood is doomed to be executed.  This law has kept the peace for most all of Nammagh’s history.  Although the High Holy Orders have a large presence in modern Nammagh, representatives from just about every known faith or sect can be found there.",
-      "cultureLook": "Citizens of Nammagh can be of any racial background and appearance.",
-      "cultureFaction": "City of Nammagh",
+      "cultureId": "Blood",
+      "cultureTitle": "Blood Orc Tribe",
+      "culturePrereq": "Orc",
+      "cultureDesc": "Blood Orc culture is based on hunting and the “might makes right” mentality.  They thrill to the scents of blood and fear. They live in small semi-nomadic groups ruled over by the biggest, meanest, and strongest warrior. They give worship to whatever cruel power their tribal Shamans might dictate. Even though the live in tribal hunting bands. The tribes all pay homage to the Orcish Blood Lord and his Council of Blood.",
+      "cultureLook": "Blood Orcs stand 6 to 7 feet tall with ruddy,brown skin and bristly, black hair.  Their eyes are often bright yellow.",
+      "cultureFaction": "Council of Blood",
       "cultureFactionRel": "accepted",
-      "cultureLang": "Nammash",
+      "cultureLang": "Uroggar",
       "addLang": [
-        "any"
+        "Durric", "Gobnarse", "Nammash", "Kellish"
       ],
-      "cultureBenDesc": "Nammagh is a wealthy center of trade and its citizens have greater wealth and a higher standard of living.",
-      "cultureBenType": "wealth",
-      "cultureBenNum": 2,
-      "cultureNote": "Nammash characters gain a +2 cultural bonus to all Academic Skills skill check rolls."
+      "cultureBenDesc": "The Blood Orcs live harsh lives of intense physical activity.  Blood Orc characters gain a +1 bonus to all Physical ability check roll results.",
+      "cultureBenType": "physical",
+      "cultureBenNum": 1,
+      "cultureNote": "All Blood Orc characters gain a +6 cultural bonus to all Nature Lore skill check rolls for Survival."
     },
     {
       "cultureId": "Ellid",
@@ -62,27 +79,10 @@
       "addLang": [
         "Kellish", "Lorric", "Nammash", "Kellagash", "Marrin"
       ],
-      "cultureBenDesc": "Citizens of true Ellid Heritage live at the pinicle of Ellish society. They often have access to greater wealth and social status.",
+      "cultureBenDesc": "Citizens of true Ellid Heritage live at the pinicle of Ellish society. They often have access to greater wealth and social status. As such, Ellid characters gain a +4 bonus to their starting Social Status roll result.",
       "cultureBenType": "social",
       "cultureBenNum": 4,
       "cultureNote": "Ellid characters gain a +2 cultural bonus to all Sacred Skills skill check rolls."
-    },
-    {
-      "cultureId": "Ara",
-      "cultureTitle": "Ara'N'Athi Heritage",
-      "culturePrereq": "N'Athi",
-      "cultureDesc": "The Ara N’Athi elves, or “high elves”, have inhabited small communities throughout Nas’Arial since the end of the second Gods’ War.  Some claim that the Ara are haughty and treat other races like children.  The Ara would claim that they are burdened with the wisdom of long lives.  They see the other races as equal, but perpetually unaware of the larger picture.  Their enclaves are often within the communities of other nations.  The few small communities that exist individually are led by a council of noble elder mages.  Religion is not a strong or cohesive factor in Ara culture.  Many Ara have taken up with various religious orders, but no one faith seems to have any strong cultural hold.",
-      "cultureLook": "The Ara'N'Athi are taller than average with pale complexions. Their hair is blonde, reddish blonde, or light brown. They have almond shaped eyes of blue, violet, or grey.",
-      "cultureFaction": "Ara'N'Athi Concordance",
-      "cultureFactionRel": "accepted",
-      "cultureLang": "Alnaranir",
-      "addLang": [
-        "Alsylnir", "Ellic", "Marrin", "Kellagash", "Kellish", "Kalfar", "Monaric", "Nammash", "Gobnarse", "Gnomish", "Durric", "Akric"
-      ],
-      "cultureBenDesc": "Ara'N'Athi characters are trained to sense arcane magic.",
-      "cultureBenType": "feature",
-      "cultureBenNum": 0,
-      "cultureNote": "All Ara’N’Athi Heritage characters gain a +2 cultural bonus to all Arcanist Skills skill check rolls."
     },
     {
       "cultureId": "Frontier",
@@ -96,7 +96,7 @@
       "addLang": [
         "any"
       ],
-      "cultureBenDesc": "Those raised on the edge of society often learn to become independent and self-sufficient. Such characters gain +2 T.P.",
+      "cultureBenDesc": "Those raised on the edge of society often learn to become independent and self-sufficient. Such characters gain +2 Trainin Points",
       "cultureBenType": "training",
       "cultureBenNum": 2,
       "cultureNote": "Frontier Heritage characters gain a +4 cultural bonus to all Nature Lore skill check rolls."
@@ -130,7 +130,7 @@
       "addLang": [
         "any"
       ],
-      "cultureBenDesc": "Gnomes are industrious and curious folk. Characters of Gnomish heritage gain +2 T.P. at character creation.",
+      "cultureBenDesc": "Gnomes are industrious and curious folk. Characters of Gnomish heritage gain +2 Training Points at character creation.",
       "cultureBenType": "training",
       "cultureBenNum": 2,
       "cultureNote": "Gnomish heritage characters gain a +4 cultural bonus to all Building Lore and Mechanical Lore skill check rolls."
@@ -168,6 +168,23 @@
       "cultureBenType": "mental",
       "cultureBenNum": 1,
       "cultureNote": "Metropolitan characters gain a +2 cultural bonus to all Social Skill check rolls."
+    },
+    {
+      "cultureId": "Nammagh",
+      "cultureTitle": "Nammagh Citizen",
+      "culturePrereq": "any",
+      "cultureDesc": "The City State of Nammagh is the oldest of the modern style metropolises of Nas’Arial.  Nammagh was founded over 2,500 years ago.  It is the oldest common free market.  It was originally settled by Dur who wanted a safe place to barter for Nam.  The city still carries its Dwarvish character, but is truly a cosmopolitan metropolis.  Nammagh is the birthplace of modern wizardry in Nas’Arial.  The first college dedicated to the Arcane Arts and Sciences was founded in Nammagh by Borgryn “Dursyl” Redhelm over 1,000 years ago.  The citizens of Nammagh live under the rule of Peace.  Anyone who sheds even a drop of another’s blood is doomed to be executed.  This law has kept the peace for most all of Nammagh’s history.  Although the High Holy Orders have a large presence in modern Nammagh, representatives from just about every known faith or sect can be found there.",
+      "cultureLook": "Citizens of Nammagh can be of any racial background and appearance.",
+      "cultureFaction": "City of Nammagh",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Nammash",
+      "addLang": [
+        "any"
+      ],
+      "cultureBenDesc": "Nammagh is a wealthy center of trade and its citizens have greater wealth and a higher standard of living. As such, all Nammagh citizen characters gain a +4 bonus to their starting Wealth roll result.",
+      "cultureBenType": "wealth",
+      "cultureBenNum": 4,
+      "cultureNote": "Nammash characters gain a +2 cultural bonus to all Academic Skills skill check rolls."
     },
     {
       "cultureId": "Kalfan",
@@ -232,9 +249,9 @@
       "addLang": [
         "any"
       ],
-      "cultureBenDesc": "The Konari are excellent tradesfolk and have a strong banking system. Due to this, Konari characters have a greater chance of holding wealth.",
+      "cultureBenDesc": "The Konari are excellent tradesfolk and have a strong banking system. Due to this, Konari characters have a greater chance of holding wealth. Konari characters gain a +4 to starting Wealth roll results.",
       "cultureBenType": "wealth",
-      "cultureBenNum": 2,
+      "cultureBenNum": 4,
       "cultureNote": "The Konari tradition of trade means that all Konari characters gain a +4 cultural bonus to Craft skill check rolls."
     },
     {
@@ -266,10 +283,44 @@
       "addLang": [
         "Stonespeak", "Nammash", "Gobnarse", "Uroggar", "Gnomish"
       ],
-      "cultureBenDesc": "With a long history of mining and access to precious metals, Radurran characters are more likely to have accumulated wealth.",
+      "cultureBenDesc": "With a long history of mining and access to precious metals, Radurran characters are more likely to have accumulated wealth. Radurran characters gain a +4 bonus to their starting Wealth roll results.",
       "cultureBenType": "wealth",
       "cultureBenNum": 4,
       "cultureNote": "Radurran characters have a +4 cultural bonus to all Craft skill check rolls."
+    },
+    {
+      "cultureId": "Sewer",
+      "cultureTitle": "Sewer Goblyn",
+      "culturePrereq": "Goblyn",
+      "cultureDesc": "Often called Squeakers by most, these muck dwelling denizens of the Imperial underbelly have a heritage of degradation and crime. They live among the civilized, but practice a life of quiet savagery. The small Goblyn enclaves within the larger cities are run by the strongest and smartest of the Goblyns. If they have a faith, it is usually in some vile and disgusting cult. Even though they live in smaller clan like communities, they are linked together into what they refer to as the Kindom of the Sewers.",
+      "cultureLook": "Squeakers tend to have dull yellow to greenish brown colored skin with little or no hair. ",
+      "cultureFaction": "Kindom of the Sewers",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Gobnarse",
+      "addLang": [
+        "any"
+      ],
+      "cultureBenDesc": "Squeakers are quick and quiet. Sewer Goblyn characters gain a +1 bonus to all physical ability check roll results.",
+      "cultureBenType": "physical",
+      "cultureBenNum": 1,
+      "cultureNote": "Sewer Goblyn characters gain a +2 cultural bonus to all Thieving Skill skill check rolls."
+    },
+    {
+      "cultureId": "Steel",
+      "cultureTitle": "Steel Orc",
+      "culturePrereq": "Orc",
+      "cultureDesc": "The Steel Orcs created an organized, fanatically religious military society. They rule over lesser orcs and other races of Ghurad-Uhle and beyond from their fortress city of Grad Uht Orog. They have some respect for the military of Ellida. They have been at war with Ellida off and on for over 350 years. The Steel Orcs are ruled by a demigod king, usually the strongest half mortal son of their ancient dragon god Raath. Since all Steel Orcs claim to have the Blood of Raath, it is needless to mention their fanatic devotion to that god.",
+      "cultureLook": "Steel Orcs are taller than other orcs with grey skin and dark silver hair. They have yellow orange eyes.",
+      "cultureFaction": "Grad Uht Orog",
+      "cultureFactionRel": "accepted",
+      "cultureLang": "Uroggar",
+      "addLang": [
+        "Nammash", "Shillic", "AlSylnir", "Durric", "Akric"
+      ],
+      "cultureBenDesc": "Steel Orcs are stongly devout and spritual in nature. Steel Orc characters gain a +1 bonus to all Spiritual ability roll results.",
+      "cultureBenType": "spiritual",
+      "cultureBenNum": 1,
+      "cultureNote": "Steel Orc characters gain a +2 cultural bonus to all Combat Skill skill check rolls."
     },
     {
       "cultureId": "Syl",
