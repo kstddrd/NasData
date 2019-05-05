@@ -1,0 +1,42 @@
+[
+  {
+    "socStatusTitle": "Noble",
+    "socStatusDesc": "Your character is a member of some noble house or cultural leadership family. You had all the comforts and training that such a life can provide, if not more. Your character gains a +15 modifier to the starting Wealth roll result and a +5 to Reputaion.",
+    "socStatusRepBonus": 5,
+    "socStatusWealthBonus": 15,
+    "socStatusMinRoll": 19,
+    "socStatusMaxRoll": 20
+  },
+  {
+    "socStatusTitle": "Highborn",
+    "socStatusDesc": "You are not a noble, but you are close. You may even be related to or descended from a Noble House. Your family saw to it that you had the proper upbringing for your proud status. Your character gains a +15 modifier to the starting Wealth roll result and a +2 to Reputaion.",
+    "socStatusRepBonus": 2,
+    "socStatusWealthBonus": 15,
+    "socStatusMinRoll": 16,
+    "socStatusMaxRoll": 18
+  },
+  {
+    "socStatusTitle": "Commoner",
+    "socStatusDesc": "You didn’t have the best, probably not even the second best, but your parents worked hard to provide a secure and stable life for you. Most likely, you come from a family of struggling merchants, tenant farmers, average craftsmen, or career soldiers. Your character gains a -5 modifier to the starting Wealth roll result and a +1 to Reputaion.",
+    "socStatusRepBonus": 1,
+    "socStatusWealthBonus": 5,
+    "socStatusMinRoll": 16,
+    "socStatusMaxRoll": 18
+  },
+  {
+    "socStatusTitle": "Peasant",
+    "socStatusDesc": "Your background is one of labor and servitude. You had to work from the time you were young. You probably always wore hand-me-downs. You are from the class of unskilled laborers, farmhands, kitchen servants, and landless peasants. Your character gains a -10 modifier to the starting Wealth roll result and a +0 to Reputaion.",
+    "socStatusRepBonus": 0,
+    "socStatusWealthBonus": -10,
+    "socStatusMinRoll": 5,
+    "socStatusMaxRoll": 9
+  },
+  {
+    "socStatusTitle": "Servant",
+    "socStatusDesc": "Your background is one of labor and servitude. You had to work from the time you were young. You probably always wore hand-me-downs. You are from the class of unskilled laborers, farmhands, kitchen servants, and landless peasants. Your character gains a -15 modifier to the starting Wealth roll result and a +0 Reputaion.",
+    "socStatusRepBonus": 0,
+    "socStatusWealthBonus": -15,
+    "socStatusMinRoll": 1,
+    "socStatusMaxRoll": 4
+  }
+]
