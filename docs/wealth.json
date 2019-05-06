@@ -23,7 +23,7 @@
       "econStatDesc": "You were born into a lifestyle of comfort and security – you’ve been able to afford to stay in fine inns (or rent comfortable cottages). You’ve always eaten good, healthy meals with good wines or ales. You may have usually ridden in carriages or public conveyance. Your well-made tailored clothing is always clean and in good repair.",
       "econStatMinNum": 16,
       "econStatMaxNum": 19,
-      "econStartGoldDesc": "1d6x100 Gold as starting money",
+      "econStartGoldDesc": "1d6x10 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 1,
       "econStartGoldDieMod": 10
@@ -33,7 +33,7 @@
       "econStatDesc": "You can afford the common room at most average inns. You expect to eat only one large meal each day (washed down with tasty ale). Only in an emergency would you pay for conveyance. Your homemade clothes are worn and patched, but at least they are clean.",
       "econStatMinNum": 11,
       "econStatMaxNum": 15,
-      "econStartGoldDesc": "4d6x10 Silver as starting money",
+      "econStartGoldDesc": "4d6 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 4,
       "econStartGoldDieMod": 0
@@ -43,7 +43,7 @@
       "econStatDesc": "Your lifestyle is one of hard work and self-denial. If you travel, you can only stay in the common rooms of the poorer inns. Your regular meals tend to be sparse, and you must walk wherever you go. Your stained clothes are old and in disrepair.",
       "econStatMinNum": 6,
       "econStatMaxNum": 10,
-      "econStartGoldDesc": "2d6x10 Silver as starting money",
+      "econStartGoldDesc": "2d6 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 2,
       "econStartGoldDieMod": 0
@@ -53,7 +53,7 @@
       "econStatDesc": "Your lifestyle is a daily struggle to make ends meet.  You might stay the night in a temple hostel (if there’s room).  You eat whatever you can scrounge and many times you go without.  You wear whatever castoffs you can dig out of the trash. You are illiterate. You are currently unable to read or write in any language that you can speak.  You can count, but you cannot recognize written numbers or arithmetic symbols. You know a small amount of Local History and a large amount of Folklore. You are up to date with Local rumors.",
       "econStatMinNum": 2,
       "econStatMaxNum": 5,
-      "econStartGoldDesc": "4d6x10 Copper as starting money",
+      "econStartGoldDesc": "1d6 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 4,
       "econStartGoldDieMod": 0.1
@@ -63,7 +63,7 @@
       "econStatDesc": "Your life is one of inhumane suffering.  If you can’t find a hostel you stay in the streets or hedgerows.  You eat whatever garbage you think may not kill you.  Your clothes are no more than dirty cords of thread and bits of rag. You are illiterate.  You are currently unable to read or write in any language that you can speak.  You can count, but you cannot recognize written numbers or arithmetic symbols.  You know a large amount of Local Folklore, but little or no History.  You are up to date with Local rumors.",
       "econStatMinNum": -15,
       "econStatMaxNum": 1,
-      "econStartGoldDesc": "4d6x10 Copper as starting money",
+      "econStartGoldDesc": "1 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 2,
       "econStartGoldDieMod": 0.1
