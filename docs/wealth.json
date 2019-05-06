@@ -3,9 +3,9 @@
       "econStatDesc": "You were born to live a lifestyle of decadence – you may live in palaces (your own, or as a guest). You expect to eat only the very best foods and wines. You will only ride in luxury carriages and wear the finest and newest of fashions.",
       "econStatMinNum": 24,
       "econStatMaxNum": 50,
-      "econStartGoldDesc": "4d6x10 Gold as starting money",
+      "econStartGoldDesc": "6d6 x 10 Gold as starting money",
       "econStartGoldDieType": 6,
-      "econStartGoldDieNum": 4,
+      "econStartGoldDieNum": 6,
       "econStartGoldDieMod": 10
     },
     {
@@ -13,9 +13,9 @@
       "econStatDesc": "You were born to live a lifestyle of extravagance – you’ve always had your own room or suite of rooms in the finest of inns (or you may rent a large house). You’ve eaten fine meals with costly wines. You’ve ridden in carriages and you always try to wear rich and stylish clothing.",
       "econStatMinNum": 20,
       "econStatMaxNum": 45,
-      "econStartGoldDesc": "2d6x10 Gold as starting money",
+      "econStartGoldDesc": "3d6 x 10 Gold as starting money",
       "econStartGoldDieType": 6,
-      "econStartGoldDieNum": 2,
+      "econStartGoldDieNum": 3,
       "econStartGoldDieMod": 10
     },
     {
@@ -23,19 +23,19 @@
       "econStatDesc": "You were born into a lifestyle of comfort and security – you’ve been able to afford to stay in fine inns (or rent comfortable cottages). You’ve always eaten good, healthy meals with good wines or ales. You may have usually ridden in carriages or public conveyance. Your well-made tailored clothing is always clean and in good repair.",
       "econStatMinNum": 16,
       "econStatMaxNum": 19,
-      "econStartGoldDesc": "1d6x10 Gold as starting money",
-      "econStartGoldDieType": 6,
-      "econStartGoldDieNum": 1,
+      "econStartGoldDesc": "2d4 Gold as starting money",
+      "econStartGoldDieType": 4,
+      "econStartGoldDieNum": 2,
       "econStartGoldDieMod": 10
     },
     {
       "econStatTitle": "Born in Homespun",
-      "econStatDesc": "You can afford the common room at most average inns. You expect to eat only one large meal each day (washed down with tasty ale). Only in an emergency would you pay for conveyance. Your homemade clothes are worn and patched, but at least they are clean.",
+      "econStatDesc": " Your lifestyle is one of frugality and practicality. You can afford the common room at most average inns. You expect to eat only one large meal each day (washed down with tasty ale). Only in an emergency would you pay for conveyance. Your homemade clothes are worn and patched, but at least they are clean.",
       "econStatMinNum": 11,
       "econStatMaxNum": 15,
-      "econStartGoldDesc": "4d6 Gold as starting money",
+      "econStartGoldDesc": "2d6 Gold as starting money",
       "econStartGoldDieType": 6,
-      "econStartGoldDieNum": 4,
+      "econStartGoldDieNum": 2,
       "econStartGoldDieMod": 0
     },
     {
@@ -43,8 +43,8 @@
       "econStatDesc": "Your lifestyle is one of hard work and self-denial. If you travel, you can only stay in the common rooms of the poorer inns. Your regular meals tend to be sparse, and you must walk wherever you go. Your stained clothes are old and in disrepair.",
       "econStatMinNum": 6,
       "econStatMaxNum": 10,
-      "econStartGoldDesc": "2d6 Gold as starting money",
-      "econStartGoldDieType": 6,
+      "econStartGoldDesc": "2d4 Gold as starting money",
+      "econStartGoldDieType": 4,
       "econStartGoldDieNum": 2,
       "econStartGoldDieMod": 0
     },
@@ -53,8 +53,8 @@
       "econStatDesc": "Your lifestyle is a daily struggle to make ends meet.  You might stay the night in a temple hostel (if there’s room).  You eat whatever you can scrounge and many times you go without.  You wear whatever castoffs you can dig out of the trash. You are illiterate. You are currently unable to read or write in any language that you can speak.  You can count, but you cannot recognize written numbers or arithmetic symbols. You know a small amount of Local History and a large amount of Folklore. You are up to date with Local rumors.",
       "econStatMinNum": 2,
       "econStatMaxNum": 5,
-      "econStartGoldDesc": "1d6 Gold as starting money",
-      "econStartGoldDieType": 6,
+      "econStartGoldDesc": "1d4 Gold as starting money",
+      "econStartGoldDieType": 4,
       "econStartGoldDieNum": 1,
       "econStartGoldDieMod": 0
     },
@@ -64,7 +64,7 @@
       "econStatMinNum": -15,
       "econStatMaxNum": 1,
       "econStartGoldDesc": "0 Gold as starting money",
-      "econStartGoldDieType": 6,
+      "econStartGoldDieType": 0,
       "econStartGoldDieNum": 0,
       "econStartGoldDieMod": 0
     }
