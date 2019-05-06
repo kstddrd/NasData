@@ -55,8 +55,8 @@
       "econStatMaxNum": 5,
       "econStartGoldDesc": "1d6 Gold as starting money",
       "econStartGoldDieType": 6,
-      "econStartGoldDieNum": 4,
-      "econStartGoldDieMod": 0.1
+      "econStartGoldDieNum": 1,
+      "econStartGoldDieMod": 0
     },
     {
       "econStatTitle": "Born in Mud",
@@ -65,7 +65,7 @@
       "econStatMaxNum": 1,
       "econStartGoldDesc": "0 Gold as starting money",
       "econStartGoldDieType": 6,
-      "econStartGoldDieNum": 2,
-      "econStartGoldDieMod": 0.1
+      "econStartGoldDieNum": 0,
+      "econStartGoldDieMod": 0
     }
   ]
