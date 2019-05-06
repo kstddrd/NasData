@@ -21,7 +21,7 @@
     {
       "econStatTitle": "Born in Linen",
       "econStatDesc": "You were born into a lifestyle of comfort and security – you’ve been able to afford to stay in fine inns (or rent comfortable cottages). You’ve always eaten good, healthy meals with good wines or ales. You may have usually ridden in carriages or public conveyance. Your well-made tailored clothing is always clean and in good repair.",
-      "econStatMinNum": 15,
+      "econStatMinNum": 16,
       "econStatMaxNum": 19,
       "econStartGoldDesc": "1d6x100 gold as starting money",
       "econStartGoldDieType": 6,
@@ -31,8 +31,8 @@
     {
       "econStatTitle": "Born in Homespun",
       "econStatDesc": "You can afford the common room at most average inns. You expect to eat only one large meal each day (washed down with tasty ale). Only in an emergency would you pay for conveyance. Your homemade clothes are worn and patched, but at least they are clean.",
-      "econStatMinNum": 10,
-      "econStatMaxNum": 14,
+      "econStatMinNum": 11,
+      "econStatMaxNum": 15,
       "econStartGoldDesc": "4d6x10 Silver as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 4,
