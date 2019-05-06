@@ -1,5 +1,4 @@
-[
-  {
+[{
     "socStatusTitle": "Noble",
     "socStatusDesc": "Your character is a member of some noble house or cultural leadership family. You had all the comforts and training that such a life can provide, if not more. Your character gains a +15 modifier to the starting Wealth roll result and a +5 to Reputaion.",
     "socStatusRepBonus": 5,
@@ -20,8 +19,8 @@
     "socStatusDesc": "You didn’t have the best, probably not even the second best, but your parents worked hard to provide a secure and stable life for you. Most likely, you come from a family of struggling merchants, tenant farmers, average craftsmen, or career soldiers. Your character gains a -5 modifier to the starting Wealth roll result and a +1 to Reputaion.",
     "socStatusRepBonus": 1,
     "socStatusWealthBonus": 5,
-    "socStatusMinRoll": 16,
-    "socStatusMaxRoll": 18
+    "socStatusMinRoll": 10,
+    "socStatusMaxRoll": 15
   },
   {
     "socStatusTitle": "Peasant",
