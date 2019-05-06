@@ -3,7 +3,7 @@
       "econStatDesc": "You were born to live a lifestyle of decadence – you may live in palaces (your own, or as a guest). You expect to eat only the very best foods and wines. You will only ride in luxury carriages and wear the finest and newest of fashions.",
       "econStatMinNum": 24,
       "econStatMaxNum": 50,
-      "econStartGoldDesc": "4d6x10 gold as starting money",
+      "econStartGoldDesc": "4d6x10 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 4,
       "econStartGoldDieMod": 10
@@ -13,7 +13,7 @@
       "econStatDesc": "You were born to live a lifestyle of extravagance – you’ve always had your own room or suite of rooms in the finest of inns (or you may rent a large house). You’ve eaten fine meals with costly wines. You’ve ridden in carriages and you always try to wear rich and stylish clothing.",
       "econStatMinNum": 20,
       "econStatMaxNum": 45,
-      "econStartGoldDesc": "2d6x10 gold as starting money",
+      "econStartGoldDesc": "2d6x10 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 2,
       "econStartGoldDieMod": 10
@@ -23,7 +23,7 @@
       "econStatDesc": "You were born into a lifestyle of comfort and security – you’ve been able to afford to stay in fine inns (or rent comfortable cottages). You’ve always eaten good, healthy meals with good wines or ales. You may have usually ridden in carriages or public conveyance. Your well-made tailored clothing is always clean and in good repair.",
       "econStatMinNum": 16,
       "econStatMaxNum": 19,
-      "econStartGoldDesc": "1d6x100 gold as starting money",
+      "econStartGoldDesc": "1d6x100 Gold as starting money",
       "econStartGoldDieType": 6,
       "econStartGoldDieNum": 1,
       "econStartGoldDieMod": 10
