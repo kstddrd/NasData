@@ -1,5 +1,4 @@
-  [
-    {
+  [{
       "cultureId": "Ang",
       "cultureTitle": "Ang",
       "culturePrereq": "Human",
@@ -154,7 +153,7 @@
     },
     {
       "cultureId": "Metro",
-      "cultureTitle": "Imperial Metropolitan",
+      "cultureTitle": "Metropolitan",
       "culturePrereq": "any",
       "cultureDesc": "Life within the grand Imperial cities, especially the Capitol, has developed its own culture.  Metropolitans care little for what goes on beyond the walls of their civic world.  Theirs is a culture of commerce and politics, crime and corruption.  The city may be ruled by a Noble Lord, but districts and enclaves are ruled by councilors, guild masters, and crime lords.  Most metropolitans give homage to the High Holy Orders, but many cults, sects, and religions may be found in an Imperial Metropolis.",
       "cultureLook": "Characters living in an Imperial Metropolis can be of any race and appearance.",
@@ -290,7 +289,7 @@
     },
     {
       "cultureId": "Sewer",
-      "cultureTitle": "Sewer Goblyn Heritage",
+      "cultureTitle": "Sewer Goblyn",
       "culturePrereq": "Goblyn",
       "cultureDesc": "Often called Squeakers by most, these muck dwelling denizens of the Imperial underbelly have a heritage of degradation and crime. They live among the civilized, but practice a life of quiet savagery. The small Goblyn enclaves within the larger cities are run by the strongest and smartest of the Goblyns. If they have a faith, it is usually in some vile and disgusting cult. Even though they live in smaller clan like communities, they are linked together into what they refer to as the Kindom of the Sewers.",
       "cultureLook": "Squeakers tend to have dull yellow to greenish brown colored skin with little or no hair. ",
@@ -307,7 +306,7 @@
     },
     {
       "cultureId": "Steel",
-      "cultureTitle": "Steel Orc Heritage",
+      "cultureTitle": "Steel Orc",
       "culturePrereq": "Orc",
       "cultureDesc": "The Steel Orcs created an organized, fanatically religious military society. They rule over lesser orcs and other races of Ghurad-Uhle and beyond from their fortress city of Grad Uht Orog. They have some respect for the military of Ellida. They have been at war with Ellida off and on for over 350 years. The Steel Orcs are ruled by a demigod king, usually the strongest half mortal son of their ancient dragon god Raath. Since all Steel Orcs claim to have the Blood of Raath, it is needless to mention their fanatic devotion to that god.",
       "cultureLook": "Steel Orcs are taller than other orcs with grey skin and dark silver hair. They have yellow orange eyes.",
@@ -341,7 +340,7 @@
     },
     {
       "cultureId": "Wandering",
-      "cultureTitle": "Wandering Gor Traveler",
+      "cultureTitle": "Gor Traveler",
       "culturePrereq": "Gor",
       "cultureDesc": "The Wandering Gor are viewed by most of Ellida with about as much affection as a case of the hives.  They wander about in groups small and large looking for adventure and seeking new things.  In order to lessen their unpopularity among the settled peoples, many Wanderers join circuses and traveling shows.  They are natural performers.  They have no real political structure, but join together is loose extended family groups that they call The Fellowship of the Roads.  Family groups connect for short periods of time and work together.  Wanderers have no unifying faith. They usually explore many faiths in their lifetime search for new experiences.",
       "cultureLook": "",
