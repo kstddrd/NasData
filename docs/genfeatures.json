@@ -261,7 +261,7 @@
     "featureDesc": "You have worked to become an exceptional physical specimen.",
     "featureBenDesc": "Increase your Physical Ability die type by one category.",
     "hasFeaturePrereq": true,
-    "featurePrereq": ["Increased Physical Ability", "Increased Awareness", "Increased Dexterity", "Increased Strength"],
+    "featurePrereq": ["Increased Physical Ability", "Exceptional Awareness", "Exceptional Dexterity", "Exceptional Strength"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
     "featureBonusType": "physical",
