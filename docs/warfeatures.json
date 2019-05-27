@@ -50,7 +50,7 @@
     "featureCost": 2,
     "featureClass": "Health",
     "featurePath": "General",
-    "featurePathTree": "Ranged",
+    "featurePathTree": "Health",
     "featureDesc": "You can take more damage in combat.",
     "featureBenDesc": "Add +1d4 to your Hit Point Total.",
     "hasFeaturePrereq": false,
