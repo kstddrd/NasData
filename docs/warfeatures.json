@@ -21,5 +21,29 @@
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
     "featureNote": ""
+  },
+  {
+    "featureName": "Weapons Proficiency ",
+    "featureCost": 2,
+    "featureClass": "Warrior",
+    "featurePath": "General",
+    "featurePathTree": "melee",
+    "featureDesc": "You have gained a little skill in the use of melee weapons.",
+    "featureBenDesc": "Add +1 additional damage for any Melee Weapon that you use in Melee combat.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Battle Ready"],
+    "hasFeatureNumBonus": true,
+    "featureNumBonus": 1,
+    "featureBonusType": "addDamage",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": ""
   }
+
 ]
