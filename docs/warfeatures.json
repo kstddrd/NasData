@@ -437,7 +437,7 @@
     "featureNote": ""
   },
   {
-    "featureName": "Standard Weapon Proficiency",
+    "featureName": "Favored Weapon Proficiency",
     "featureCost": 1,
     "featureClass": "Warrior",
     "featurePath": "General",
