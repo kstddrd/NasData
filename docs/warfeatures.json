@@ -1,0 +1,25 @@
+[
+  {
+    "featureName": "Battle Ready",
+    "featureCost": 2,
+    "featureClass": "Warrior",
+    "featurePath": "General",
+    "featurePathTree": "Melee",
+    "featureDesc": "You have been trained to use Quick Combat Actions.",
+    "featureBenDesc": "Gain a +1d4 Training bonus to roll results when using a Quick Combat Action. You no longer provoke an Attack of Opportunity while using a Quick Combat Action.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Simple Melee Combat"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "combatAction",
+    "hasFeatureBonusDie": true,
+    "featureBonusDieType": 4,
+    "featureBonuseDieNum": 1,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": ""
+  }
+]
