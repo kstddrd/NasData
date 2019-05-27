@@ -27,7 +27,7 @@
     "featureCost": 2,
     "featureClass": "Warrior",
     "featurePath": "General",
-    "featurePathTree": "melee",
+    "featurePathTree": "Melee",
     "featureDesc": "You have gained a little skill in the use of melee weapons.",
     "featureBenDesc": "Add +1 additional damage for any Melee Weapon that you use in Melee combat.",
     "hasFeaturePrereq": true,
