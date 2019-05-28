@@ -1,0 +1,23 @@
+[{
+  "featureName": "Aggressive Combat",
+  "featureCost": 1,
+  "featureClass": "Warrior",
+  "featurePath": "Violence",
+  "featurePathTree": "Violence",
+  "featureDesc": "Success in battle increases your aggression.",
+  "featureBenDesc": "While Enraged, each time you have a successful attack against an opponent, you may increase your Ticker value by +1.",
+  "hasFeaturePrereq": true,
+  "featurePrereq": ["Battle Rage"],
+  "hasFeatureNumBonus": false,
+  "featureNumBonus": 0,
+  "featureBonusType": "combatAction",
+  "hasFeatureBonusDie": false,
+  "featureBonusDieType": 0,
+  "featureBonuseDieNum": 0,
+  "hasIncreaseDieType": false,
+  "hasIncreaseDieNum": false,
+  "dieTypeIncreaseAmount": 0,
+  "dieNumIncreaseAmount": 0,
+  "featureCanRepeat": false,
+  "featureNote": ""
+}]
