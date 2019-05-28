@@ -3,7 +3,7 @@
   "featureCost": 1,
   "featureClass": "Warrior",
   "featurePath": "Violence",
-  "featurePathTree": "Violence",
+  "featurePathTree": "Rage",
   "featureDesc": "Success in battle increases your aggression.",
   "featureBenDesc": "While Enraged, each time you have a successful attack against an opponent, you may increase your Ticker value by +1.",
   "hasFeaturePrereq": true,
