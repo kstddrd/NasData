@@ -3,7 +3,7 @@
   "featureCost": 2,
   "featureClass": "Warrior",
   "featurePath": "Guardian",
-  "featurePathTree": "Guardian",
+  "featurePathTree": "Attack",
   "featureDesc": "You have trained to fight while in a defensive position.",
   "featureBenDesc": "While using a Full Round Defense action, you may now deal half of your normal damage plus additional damage on a successful Combat Check roll.",
   "hasFeaturePrereq": true,
