@@ -1,16 +1,17 @@
-[{
-    "featureName": "Armed Defense",
+[
+  {
+    "featureName": "Armed Response",
     "featureCost": 2,
     "featureClass": "Warrior",
     "featurePath": "Guardian",
     "featurePathTree": "Attack",
     "featureDesc": "You have trained to fight while in a defensive position.",
-    "featureBenDesc": "While using a Full Round Defense action, you may now deal half of your normal damage plus additional damage on a successful Combat Check roll.",
+    "featureBenDesc": "While using a Full Round Defense action, may now deal half of your normal damage plus additional damage on a successful Combat Check roll.",
     "hasFeaturePrereq": true,
     "featurePrereq": ["Defensive Combat"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
-    "featureBonusType": "combatAction",
+    "featureBonusType": "melee",
     "hasFeatureBonusDie": false,
     "featureBonusDieType": 0,
     "featureBonuseDieNum": 0,
@@ -22,15 +23,15 @@
     "featureNote": ""
   },
   {
-    "featureName": "Armed Defense",
+    "featureName": "Bodyguard",
     "featureCost": 2,
     "featureClass": "Warrior",
     "featurePath": "Guardian",
     "featurePathTree": "Attack",
-    "featureDesc": "You have trained to fight while in a defensive position.",
-    "featureBenDesc": "While using a Full Round Defense action, you may now deal half of your normal damage plus additional damage on a successful Combat Check roll.",
+    "featureDesc": "You have trained to protect others in combat.",
+    "featureBenDesc": "Once each Encounter, as a Free Action, you may reduce your Ticker by 1d4+1 in order to increase an adjacent ally’s Ticker by the same amount while providing 25% cover for that ally. ",
     "hasFeaturePrereq": true,
-    "featurePrereq": ["Defensive Combat"],
+    "featurePrereq": ["Armed Response"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
     "featureBonusType": "combatAction",
@@ -42,6 +43,30 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": ""
+    "featureNote": "There is a 25% chance that an opponent’s attack will hit you instead of the targeted ally."
+  },
+  {
+    "featureName": "Calculated Defense",
+    "featureCost": 2,
+    "featureClass": "Warrior",
+    "featurePath": "Guardian",
+    "featurePathTree": "Attack",
+    "featureDesc": "You have a mind for defensive strategy.",
+    "featureBenDesc": "During a round, if you intentionally hold your turn in combat until after your opponent’s turn and take no action other than a Full Defense action against that opponent, you gain a +1d4 insight bonus to all Combat Check rolls against that opponent for that round.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Logic", "Bodyguard"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "combatAction",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": "There is a 25% chance that an opponent’s attack will hit you instead of the targeted ally."
   }
+
 ]
