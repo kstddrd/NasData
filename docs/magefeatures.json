@@ -1,0 +1,25 @@
+[
+  {
+    "featureName": "Spellcraft",
+    "featureCost": 2,
+    "featureClass": "Arcanist",
+    "featurePath": "Mage",
+    "featurePathTree": "Mage",
+    "featureDesc": "You have learned to cast arcane spells.",
+    "featureBenDesc": "You may include your Use Magic modifier when rolling a Use Magic check to cast an Arcane Word from an Arcane Lexicon that you have learned. Add +1 Charge to your Charge roll result.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Logic", "Bind Arcana"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": ""
+  }
+]
