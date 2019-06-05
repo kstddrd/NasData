@@ -851,6 +851,29 @@
     "featureNote": "The targeted item must be in your possession at the time this binding is made."
   },
   {
+    "featureName": "Summon Item",
+    "featureCost": 1,
+    "featureClass": "Arcanist",
+    "featurePath": "General",
+    "featurePathTree": "Conjure",
+    "featureDesc": "With this Standard Binding, you can summon a prepared item to you.",
+    "featureBenDesc": "As a full round action, this binding brings to you a Large or smaller sized item that you specify. In preparation for this binding, you must have chosen a special personal Glyph that represents you in some way. You may inscribe this Glyph as your personal Mark onto an item that you own or that you possess as you would place any other Glyph as described in the Feature Arcane Glyph. Alternately, you may have your Glyph permanently inscribed or added to the desired object either by a trained craftsman or by yourself at a Crafting check roll of 10 or better. This requires a full hour of work and decreased your Charge value by 5. Once the item has been inscribed, you may use this binding to summon it to you at any time. As long as the item is not magically bound or kept in a lead or iron container, it will appear in your hand at the beginning of your next Turn. Certain effects may be used to block this binding. If the item cannot reach you, it will return to its point of origin. This binding can be used on items of Large item size and smaller only. It will not work on creatures of any type. This binding can only work if you and the object are within the same Realm. ",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Alter Item"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": "Although you may have more than one such personal Glyph Marked item in existence at once, you are only able to Mark a total number of personal items equal to your maximum Mental Ability Die roll."
+  },
+  {
     "featureName": "Mend Object",
     "featureCost": 1,
     "featureClass": "Arcanist",
@@ -964,5 +987,29 @@
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
     "featureNote": "You may have more than one Chyt in existence at a time.  You are only able to control a total number of conjured and summoned creatures per day equal to your maximum Spiritual Ability Die roll."
+  },
+  {
+    "featureName": "Conjure Kurr",
+    "featureCost": 1,
+    "featureClass": "Arcanist",
+    "featurePath": "General",
+    "featurePathTree": "Conjure",
+    "featureDesc": "With this Standard Binding, you conjure a simple Automaton to serve as a temporary personal guard.",
+    "featureBenDesc": "As a full round action, you may create a small, dog-like creature. A Kurr is a Small sized Automaton that appears to be a stocky, simple featured cross between a lizard and a dog. The Kurr is no larger than 4’ and has hairless, blue-gray skin the texture of clay speckled with iridescent glitter. The creature has a large head with small ears, large opalescent eyes, and a large, fang filled mouth. As a part of the Binding, you must inscribe a special Diagram into a fist sized rock that will become the Kurr. A Kurr’s main function is to guard and protect anyone and anything that you determine. A Kurr can attack has a Melee attack modifier of +1d4, and a Natural Weapon bonus for Bite of +1d6. Also, the Kurr’s Physical Ability modifier die is +1d6. The creature has only 20 hit points and will decompose if it is reduced to 0. A Kurr must always stay within 30’ of you for up to one hour per Charge spent. Once conjured, you may choose to spend one additional Charge for each extra hour that you wish to Maintain the Kurr. When this binding ends, the Kurr disappears and leaves behind the original rock. ",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Conjure Chyt"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": "You may have more than one Kurr in existence at a time.  You are only able to control a total number of conjured and summoned creatures per day equal to your maximum Spiritual Ability Die roll."
   }
+  
 ]
