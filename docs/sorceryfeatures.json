@@ -1,0 +1,25 @@
+[
+  {
+    "featureName": "Sorcery",
+    "featureCost": 2,
+    "featureClass": "Arcanist",
+    "featurePath": "Sorcery",
+    "featurePathTree": "Sorcery",
+    "featureDesc": "You have developed an ability to Bind and control Arcane Energy using the strength of your emotions and instincts.",
+    "featureBenDesc": "You may learn and use Primal Powers of Sorcery. Add +1 Charge to your Charge roll result.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Self-Awareness", "Bind Arcana"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": ""
+  }
+]
