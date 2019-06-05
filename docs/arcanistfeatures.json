@@ -1,0 +1,25 @@
+[
+  {
+    "featureName": "Sense Arcana",
+    "featureCost": 1,
+    "featureClass": "Arcanist",
+    "featurePath": "General",
+    "featurePathTree": "Arcanist",
+    "featureDesc": "You may use your senses to reach out into your immediate surroundings in order to perceive the presence or absence of magical forces.",
+    "featureBenDesc": "You may detect arcane magic with your Physical action roll for Perception.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Awareness"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": "You may determine if arcane magic is present and its relative strength only. "
+  }
+]
