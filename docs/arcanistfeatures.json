@@ -1,5 +1,4 @@
-[
-  {
+[{
     "featureName": "Sense Arcana",
     "featureCost": 1,
     "featureClass": "Arcanist",
@@ -1424,6 +1423,75 @@
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
     "featureNote": ""
+  },
+  {
+    "featureName": "Conjure Ryde",
+    "featureCost": 2,
+    "featureClass": "Arcanist",
+    "featurePath": "General",
+    "featurePathTree": "Conjure",
+    "featureDesc": "With this Advanced Binding, you conjure an Automaton to serve as a temporary personal mount.",
+    "featureBenDesc": "As a full round action, you may decrease your Charge value by one to create a large, horse-like creature. The Ryde is a Large sized {[Automaton, Lesser] (Beast)} that appears to be a sturdy, simple featured horse. The Ryde has hairless, blue-gray skin the texture of clay and seems to be speckled with iridescent glitter.  The creature has a large conical head with small ears, large opalescent eyes, and a small, toothless mouth. A Ryde cannot attack or defend and only has 10 hit points. The Ryde appears equipped with simple riding equipment. The Ryde can communicate with you telepathically in short, concise sentences.  This mount can travel at up to 4 x your normal speed. The Ryde is intelligent enough to work with you and will even continue to journey while you sleep or read. As a part of the Binding, you must inscribe a special Diagram into a hand sized clay model of a horse that will become the Ryde.  After 8 hours, the Ryde fades leaving only the original lump of clay. ",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Exprienced Binder"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": "You may have more than one Ryde in existence at a time. You are only able to control a total number of conjured and summoned creatures equal to your maximum Spiritual Ability modifier die type result."
+  },
+  {
+    "featureName": "Conjure Drudge",
+    "featureCost": 2,
+    "featureClass": "Arcanist",
+    "featurePath": "General",
+    "featurePathTree": "Conjure",
+    "featureDesc": "With this Advanced Binding, you conjure an Automaton to serve as a temporary personal servant.",
+    "featureBenDesc": "As a full round action, you may decrease your Charge value by one to create a short, man-like creature. The Drudge is a Medium sized {[Automaton, Lesser] (Humanoid)} that appears to be a thin, simple featured person about 4’ tall. The Drudge has hairless, blue-gray skin the texture of clay and seems to be speckled with iridescent glitter. The creature has a large head with no ears, large opalescent eyes, and a small, toothless mouth. Drudges cannot attack or defend and only have 10 hit points. The Drudge appears clothed in a simple gray tabard. The Drudge can communicate with you telepathically in short, concise sentences. You may give the Drudge a series of simple chores or tasks to complete. Drudges are often used to clean, carry, serve, set up camp, and other simple tasks. A Drudge cannot perform skilled tasks such as cooking, although it can be directed to stir a pot. As a part of the Binding, you must inscribe a special Diagram into a fist sized clay model of a person that will become the Drudge. After 8 hours, the Drudge fades leaving behind the original lump of clay.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Exprienced Binder"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": "You may have more than one Drudge in existence at a time. You are only able to control a total number of conjured and summoned creatures equal to your maximum Spiritual Ability modifier die type result."
+  },
+  {
+    "featureName": "Conjure Fyx",
+    "featureCost": 2,
+    "featureClass": "Arcanist",
+    "featurePath": "General",
+    "featurePathTree": "Conjure",
+    "featureDesc": "With this Advanced Binding, you conjure an Automaton to serve as a temporary personal servant.",
+    "featureBenDesc": "As a full round action, you may decrease your Charge value by one to create a short, man-like creature. The Drudge is a Medium sized {[Automaton, Lesser] (Humanoid)} that appears to be a thin, simple featured person about 4’ tall. The Drudge has hairless, blue-gray skin the texture of clay and seems to be speckled with iridescent glitter. The creature has a large head with no ears, large opalescent eyes, and a small, toothless mouth. Drudges cannot attack or defend and only have 10 hit points. The Drudge appears clothed in a simple gray tabard. The Drudge can communicate with you telepathically in short, concise sentences. You may give the Drudge a series of simple chores or tasks to complete. Drudges are often used to clean, carry, serve, set up camp, and other simple tasks. A Drudge cannot perform skilled tasks such as cooking, although it can be directed to stir a pot. As a part of the Binding, you must inscribe a special Diagram into a fist sized clay model of a person that will become the Drudge. After 8 hours, the Drudge fades leaving behind the original lump of clay.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Conjure Drudge", "Exprienced Binder"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": "You may have more than one Drudge in existence at a time. You are only able to control a total number of conjured and summoned creatures equal to your maximum Spiritual Ability modifier die type result."
   }
-  
+
 ]
