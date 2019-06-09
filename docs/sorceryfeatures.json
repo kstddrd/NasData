@@ -118,7 +118,7 @@
     "featureCost": 2,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
-    "featurePathTree": "arcanePower",
+    "featurePathTree": "ArcanePower",
     "featureDesc": "You may use Sorcery to Bind and Use Arcane Powers of Primal Darkness.",
     "featureBenDesc": "As a standard action, by decreasing your Charge Count by one, you may diminish or remove light from an area with a radius of up to 30' centered on a point that you can see within 30' of yourself. As a free action once per round, you may increase or decrease the level of darkenss within the affected area from dim to complete darkness. As part of this Power, you are able to see within the affected area as though the effect were not present. Initially, the effect lasts for a number of rounds equal to your Use Magic Check roll result, but may be extended as a Free Action beyond the initial limit by spending an additional Charge for a further number of rounds equal to a new Use Magic Check roll result. Also, by spending 1 additional Charge per target, you may cause a targeted opponent within the effected area to lower her Ticker Value by 1d4. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
     "featurePrereq": ["Sorcery"],
