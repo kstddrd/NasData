@@ -1926,7 +1926,7 @@
   },
   {
     "featureName": "Invoker",
-    "featureCost": 2,
+    "featureCost": 3,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
