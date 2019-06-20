@@ -1930,7 +1930,7 @@
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
-    "featureDesc": "You have improved the ability to use your thoughts and emotions to bind Arcane Energy in order to effect the thoughts and emotions of others.",
+    "featureDesc": "You have advanced in the ability to use your thoughts and emotions to bind Arcane Energy in order to effect the thoughts and emotions of others.",
     "featureBenDesc": "When using Arcane Magic to affect the Mental or Spiritual states of others, gain +1d8 to your Use Magic roll.",
     "hasFeaturePrereq": true,
     "featurePrereq": ["Novice Invoker", "Advanced Sorcery"],
@@ -2301,7 +2301,30 @@
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
     "featureNote": ""
-  }
+  },
+  {
+    "featureName": "Master Invoker",
+    "featureCost": 4,
+    "featureClass": "Arcanist",
+    "featurePath": "Sorcery",
+    "featurePathTree": "Invocation",
+    "featureDesc": "You have mastered the ability to use your thoughts and emotions to bind Arcane Energy in order to effect the thoughts and emotions of others.",
+    "featureBenDesc": "When using Arcane Magic to affect the Mental or Spiritual states of others, gain +1d10 to your Use Magic roll.",
+    "hasFeaturePrereq": true,
+    "featurePrereq": ["Invoker", "Superior Sorcery"],
+    "hasFeatureNumBonus": false,
+    "featureNumBonus": 0,
+    "featureBonusType": "",
+    "hasFeatureBonusDie": false,
+    "featureBonusDieType": 0,
+    "featureBonuseDieNum": 0,
+    "hasIncreaseDieType": false,
+    "hasIncreaseDieNum": false,
+    "dieTypeIncreaseAmount": 0,
+    "dieNumIncreaseAmount": 0,
+    "featureCanRepeat": false,
+    "featureNote": ""
+  },
 
 
 
