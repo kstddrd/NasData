@@ -2259,7 +2259,7 @@
   },
   {
     "featureName": "Superior Empower Weapon",
-    "featureCost": 2,
+    "featureCost": 3,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
     "featurePathTree": "Sorcery",
@@ -2373,7 +2373,7 @@
   },
   {
     "featureName": "Elite Empower Weapon",
-    "featureCost": 2,
+    "featureCost": 3,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
     "featurePathTree": "Sorcery",
