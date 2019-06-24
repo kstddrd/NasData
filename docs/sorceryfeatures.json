@@ -893,7 +893,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Evocation",
     "featureDesc": "You can use the Arcane Power of Enhanced Darkness to attack your foes.",
-    "featureBenDesc": "Once you spend the Charge to manifest it, Darkbolt will now last for as long as you are using Deeper Darkness. The Darkbolt now deals +1d8 points of additional damage on a successful Magic Attack Check roll. Also, the target must reduce her Ticker Value by a number equal to the additional damage dealt by this attack.",
+    "featureBenDesc": "As a Partial Action if you are using Deeper Darkness, you may decrease your Charge Count by 1 to gain the ability to target one opponent each round with a ranged Magic attack. Improved Darkbolt lasts as long as your current Deeper Darkness effect. Improved Darkbolt also deals +1d8 points of Ticker Value loss on a successful Ranged Magic Attack Check roll.",
     "featurePrereq": ["Darkbolt", "Deeper Darkness"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
