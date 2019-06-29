@@ -494,7 +494,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use Sorcery to Invoke the Primal Power of Fear.",
-    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 30' of yourself. You appear Fearsome and Intimidating to the target. You may cause any Living creature targeted by this ability to become afraid and unable to take any attack actions during the current round. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 30' of you. Targets affected by this ability may defend against attacks as normal but you gain a +1d4 bonus on all rolls made against the target during the current round. Initially, Primal Fear lasts for a number of rounds equal to your Use Magic Check roll result, but may be continued as a Free Action beyond the initial limit by spending an additional Charge for a further number of rounds equal to a new Use Magic Check roll result. As a partial action once per round while this Power is active, you can lower a targeted opponent's Current Modifier value by 1d4. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check + Modifier loss in order to negate this effect.",
+    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 30' of yourself. You appear Fearsome and Intimidating to the target. You may cause any Living creature targeted by this ability to become afraid and unable to take any Attack actions during the current round. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 30' of you. Targets affected by this ability may defend against attacks as normal but you gain a +1d4 bonus on all rolls made against the target during the current round. Initially, Primal Fear lasts for a number of rounds equal to your Use Magic Check roll result, but may be continued as a Free Action beyond the initial limit by spending an additional Charge for a further number of rounds equal to a new Use Magic Check roll result. Also, if you succeed at a Touch Combat Check roll against an opponent you may lower the target's Current Modifier value by 1d4. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
     "featurePrereq": ["Invocation"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -516,7 +516,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Primal Power of Fear to protect you.",
-    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 1d4+1, you may manifest an Arcane Presence of Fear. This Presence inspires dread in those who see you.  While near you, others feel a bit frightened. The effect lasts for a number of rounds equal to your Use Magic Check roll result + the Charge cost. Before Dreadful Guise ends, you may continue the effect as a Free Action by spending 1 additional Charge and making a new Use Magic Check roll to establish how many rounds the effect will continue. While using this Presence, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else become afraid and unable to take any attack actions while adjacent to you. You gain a +1d6 bonus to all rolls against such opponents. Additionally, while in Dreadful Guise, you automatically manifest the Feature Primal Fear without having to decrease your current Charge.",
+    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 1d4+1, you may manifest an Arcane Presence of Fear. This Presence inspires dread in those who see you.  While near you, others feel a bit frightened. Dreadful Guise lasts for a number of rounds equal to your Use Magic Check roll result + the Charge cost. Before Dreadful Guise ends, you may continue the effect as a Free Action by spending 1 additional Charge and making a new Use Magic Check roll to establish how many rounds the effect will continue. While using this Presence, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else become afraid and unable to take any attack actions while adjacent to you. Targets affected by this ability may defend against attacks as normal, but you gain a +1d6 bonus to all rolls against such opponents. Additionally, while in Dreadful Guise, you automatically manifest the Feature Primal Fear without having to decrease your current Charge.",
     "featurePrereq": ["Invocation", "Primal Fear"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -538,7 +538,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Power of Primal Fear to gain strength over your enemies.",
-    "featureBenDesc": "As a Partial Action if you are using Dreadful Guise, you may decrease your Charge Count by 1 to speak and inspire Dread in a targeted Living opponent. The ability lasts as long as your current Dreadful Guise effect. Dreadful Words must be re-manifested with 1 additional Charge each time your Presence is renewed. The target of this ability is unable to take any Attack action and suffers a 1d6 loss to Modifier Value each round while your Dreadful Guise is active. The target's Modifier may not be reduced below 0 with this ability.",
+    "featureBenDesc": "As a Partial Action if you are using Dreadful Guise, you may decrease your Charge Count by 1 to speak and inspire Dread in a targeted Living opponent. The ability lasts as long as your current Dreadful Guise effect. Dreadful Words must be re-manifested with 1 additional Charge each time your Presence is renewed. The target of this ability is unable to take any Attack action and suffers a 1d6 loss to Modifier Value each round while your Dreadful Guise is active.  The target's Modifier may not be reduced below 0 with this ability. Targets affected by this ability may defend against attacks as normal.",
     "featurePrereq": ["Dreadful Guise"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -661,7 +661,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "Hateful Words",
@@ -727,7 +727,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "Peaceful Words",
@@ -937,7 +937,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Evocation",
     "featureDesc": "You may use Sorcery to Bind and Use Arcane Powers of Enhanced Flame.",
-    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may ignite a flame centered on a point that you can see within 50' of yourself. Unattended combustable material will catch fire. As a free action once per round, you may increase or decrease the size of an active fire within the affected area from embers to a complete blaze.  Increasing a fire's size in this way will cause it to burn through its fuel at a faster rate. ONce Manifested, Enhanced Flame will remain active until the end of the Current Encounter. Also, if you and an opponent are both within 20' of the same active fire, you may spend an additional Charge to direct a spark of flame toward the target. The spark deals 1d6 points of Fire Damage. You may do this as a partial action once per round while Enhanced Flame is active.",
+    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may ignite a flame centered on a point that you can see within 50' of yourself. Unattended combustable material will catch fire. As a free action once per round, you may increase or decrease the size of an active fire within the affected area from embers to a complete blaze.  Increasing a fire's size in this way will cause it to burn through its fuel at a faster rate. Once Manifested, Enhanced Flame will remain active until the end of the Current Encounter. Also, if you and an opponent are both within 20' of the same active fire, you may spend an additional Charge to direct a spark of flame toward the target. The spark deals 1d6 points of Fire Damage. You may do this as a partial action once per round while Enhanced Flame is active.",
     "featurePrereq": ["Primal Flame", "Novice Evoker"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -1224,7 +1224,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use Sorcery to Invoke the Primal Power of Fear.",
-    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 50' of yourself. You gain a +1d6 bonus to all rolls made against any Living creature targeted by this ability. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 50' of you. This ability will last until the end of the Current Encounter. Also, if you succeed at a Touch Combat Check roll against the targeted opponent you can lower the target's Current Modifier value by 1d6. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
+    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 50' of yourself. You may cause any Living creature targeted by this ability to become afraid and unable to take any Attack actions during the current round. Targets affected by this ability may defend against attacks as normal but you gain a +1d6 bonus on all rolls made against the target during the current round. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 50' of you. This ability will last until the end of the Current Encounter. Also, if you succeed at a Touch Combat Check roll against an opponent you may lower the target's Current Modifier value by 1d6. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
     "featurePrereq": ["Primal Fear", "Novice Invoker"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -1246,7 +1246,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Enhanced Power of Fear to protect you.",
-    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 1d4+1, you may manifest an Arcane Presence of Fear. The Presence lasts until the end of the Current Encounter. Like Dreadful Guise, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else move away from you and choose a different opponent. If a Living creature does choose to enter into combat with you, you gain a +1d8 bonus to all rolls against the opponent. Additionally, while in Deeper Dread, you automatically Manifest the Feature Enhanced Fear without having to decrease your current Charge.",
+    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 1d4+1, you may manifest an Arcane Presence of Fear. The Presence lasts until the end of the Current Encounter. Like Dreadful Guise, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else become afraid and unable to take any attack actions while adjacent to you. You gain a +1d8 bonus to all rolls against such opponents. Targets affected by this ability may defend against attacks as normal. Additionally, while in Deeper Dread, you automatically Manifest the Feature Enhanced Fear without having to decrease your current Charge.",
     "featurePrereq": ["Dreadful Guise", "Enhanced Fear"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -1268,7 +1268,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Power of Enhanced Fear to gain strength over your enemies.",
-    "featureBenDesc": "As a Partial Action if you are using Deeper Dread, you may decrease your Charge Count by 1 to speak and inspire Dread in a targeted Living opponent. The ability lasts as long as your current Deeper Dread effect. The target of this ability is unable to take any Attack action and suffers a 1d8 loss to Modifier Value each round while your Dreadful Guise is active. The target's Modifier may not be reduced below 0 with this ability.",
+    "featureBenDesc": "As a Partial Action if you are using Deeper Dread, you may decrease your Charge Count by 1 to speak and inspire Dread in a targeted Living opponent. The ability lasts as long as your current Deeper Dread effect. The target of this ability is unable to take any Attack action and suffers a 1d8 loss to Modifier Value each round while your Dreadful Guise is active. The target's Modifier may not be reduced below 0 with this ability. Targets affected by this ability may defend against attacks as normal.",
     "featurePrereq": ["Dreadful Words", "Deeper Dread"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -1391,7 +1391,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "More Hateful Words",
@@ -1457,7 +1457,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "More Peaceful Words",
@@ -1954,7 +1954,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use Sorcery to Invoke the Power of Fear.",
-    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 100' of yourself. You gain a +1d8 bonus to all rolls made against any Living creature targeted by this ability. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 100' of you. This ability will last until the end of the Current Encounter. Also, if you succeed at a Touch Combat Check roll against the targeted opponent you can lower the target's Current Modifier value by 1d8. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
+    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 100' of yourself. You may cause any Living creature targeted by this ability to become afraid and unable to take any Attack actions during the current round. Targets affected by this ability may defend against attacks as normal but you gain a +1d8 bonus on all rolls made against the target during the current round. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 100' of you. This ability will last until the end of the Current Encounter. Also, if you succeed at a Touch Combat Check roll against an opponent you may lower the target's Current Modifier value by 1d8. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
     "featurePrereq": ["Enhanced Fear", "Invoker"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -1976,7 +1976,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Power of Fear to protect you.",
-    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 2d4+2, you may manifest an Arcane Presence of Fear. The Presence lasts for 8 hours or until your Current Charge Count equals 0. Like Deeper Dread, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else move away from you and choose a different opponent. If a Living creature does choose to enter into combat with you, you gain a +1d10 bonus to all rolls against the opponent. Additionally, while in Deepest Dread, you automatically gain the effects from the Feature Expanded Fear without having to decrease your current Charge.",
+    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 2d4+2, you may manifest an Arcane Presence of Fear. The Presence lasts for 8 hours or until your Current Charge Count equals 0. Like Deeper Dread, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else become afraid and unable to take any attack actions while adjacent to you. You gain a +1d10 bonus to all rolls against such opponents. Additionally, while in Deepest Dread, you automatically gain the effects from the Feature Expanded Fear without having to decrease your current Charge.",
     "featurePrereq": ["Deeper Dread", "Expanded Fear"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -1998,7 +1998,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Power of Expanded Fear to gain strength over your enemies.",
-    "featureBenDesc": "As a Partial Action if you are using Deepest Dread, you may decrease your Charge Count by 1 to speak and inspire Dread in a targeted Living opponent. The ability lasts as long as your current Deepest Dread effect. The target of this ability is unable to take any Attack action and suffers a 1d10 loss to Modifier Value each round while your Dreadful Guise is active. The target's Modifier may not be reduced below 0 with this ability.",
+    "featureBenDesc": "As a Partial Action if you are using Deepest Dread, you may decrease your Charge Count by 1 to speak and inspire Dread in a targeted Living opponent. The ability lasts as long as your current Deepest Dread effect. The target of this ability is unable to take any Attack action and suffers a 1d10 loss to Modifier Value each round while your Dreadful Guise is active. The target's Modifier may not be reduced below 0 with this ability. Targets affected by this ability may defend against attacks as normal.",
     "featurePrereq": ["More Dreadful Words", "Deepest Dread"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -2121,7 +2121,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "Most Hateful Words",
@@ -2187,7 +2187,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "Most Peaceful Words",
@@ -2684,7 +2684,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use Sorcery to Invoke the Power of Fear.",
-    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 100' of yourself. You gain a +1d10 bonus to all rolls made against any Living creature targeted by this ability. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 100' of you. This ability will last until the end of the Current Encounter. Also, if you succeed at a Touch Combat Check roll against the targeted opponent you can lower the target's Current Modifier value by 1d10. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
+    "featureBenDesc": "As a standard action, by decreasing your Charge Count by 1, you may manifest a feeling of Dread within a Living target that you can see within 100' of yourself. You may cause any Living creature targeted by this ability to become afraid and unable to take any Attack actions during the current round. Targets affected by this ability may defend against attacks as normal but you gain a +1d10 bonus on all rolls made against the target during the current round. As a free action once per round, you may change the target of this ability to another Living opponent that you can see within 100' of you. This ability will last until the end of the Current Encounter. Also, if you succeed at a Touch Combat Check roll against an opponent you may lower the target's Current Modifier value by 1d10. If this Value is lowered below 0 due to this ability, it will not also affect the target's Health. You may do this once per round as a Partial Action. Targeted individuals are allowed a Spiritual Defense Check roll against your Use Magic check in order to negate this loss.",
     "featurePrereq": ["Expanded Fear", "Master Invoker"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -2706,7 +2706,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Power of Fear to protect you.",
-    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 3d4+3, you may manifest an Arcane Presence of Fear. The Presence lasts until you become unconscious or until your Current Charge Count equals 0. Like Deepest Dread, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else move away from you and choose a different opponent. If a Living creature does choose to enter into combat with you, you gain a +1d12 bonus to all rolls against the opponent. Additionally, while in Complete Dread, you automatically gain the effects from the Feature Superior Fear without having to decrease your current Charge.",
+    "featureBenDesc": "As a Full Round Action, by decreasing your Charge Count by 3d4+3, you may manifest an Arcane Presence of Fear. The Presence lasts until you become unconscious or until your Current Charge Count equals 0. Like Deepest Dread, opponents who choose to engage with you during Combat must succeed at a Spiritual Defense Check against your Use Magic Check or else become afraid and unable to take any attack actions while adjacent to you. You gain a +1d12 bonus to all rolls against such opponents. Additionally, while in Complete Dread, you automatically gain the effects from the Feature Superior Fear without having to decrease your current Charge.",
     "featurePrereq": ["Deepest Dread", "Superior Fear"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -2728,7 +2728,7 @@
     "featurePath": "Sorcery",
     "featurePathTree": "Invocation",
     "featureDesc": "You can use the Arcane Power of Superior Fear to gain strength over your enemies.",
-    "featureBenDesc": "As a Partial Action if you are using Complete Dread, you may decrease your Charge Count by 1 to speak and inspire Dread in all targeted Living opponents within 30' of you and each other. The ability lasts as long as your current Complete Dread effect. By using this ability, anyone who enters Combat with this target gains a +1d12 Arcane Enhancement Bonus to all rolls against the target until the end of the Current Encounter. Also, if the target fails at a Spiritual Defense roll agains your Use Magic check the target must decrease its Ticker and Modifier Values by 1d12.",
+    "featureBenDesc": "As a Partial Action if you are using Complete Dread, you may decrease your Charge Count by 1 to speak and inspire Dread in all targeted Living opponents within 30' of you and each other. The ability lasts as long as your current Complete Dread effect. All Living creatures targeted by this ability must succeed at a Spiritual Defense check against your Use Magic roll or else become afraid and unable to make any Attack action while you are within 30'. Targets affected by this ability may defend against attacks as normal, but you and your allies gain a +1d12 Modifier bonus to all rolls made against any of the targest.",
     "featurePrereq": ["Most Dreadful Words", "Complete Dread"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
@@ -2851,7 +2851,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "Fury",
@@ -2917,7 +2917,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may have only one Presense active at any one time. This effect will remain until dismissed or until you lose consciousness."
+    "featureNote": "You may have only one Presence active at any one time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
     "featureName": "Peaceful",
