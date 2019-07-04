@@ -3143,7 +3143,7 @@
     "featureNote": "You may only have one Arcane Presence active at a time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
-    "featureName": "Elilte Darkbolt",
+    "featureName": "Elite Darkbolt",
     "featureCost": 4,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
@@ -3231,7 +3231,7 @@
     "featureNote": "You may only have one Arcane Presence active at a time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
-    "featureName": "Elilte Flamebolt",
+    "featureName": "Elite Flamebolt",
     "featureCost": 4,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
@@ -3319,7 +3319,7 @@
     "featureNote": "You may only have one Arcane Presence active at a time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
-    "featureName": "Elilte Frostbolt",
+    "featureName": "Elite Frostbolt",
     "featureCost": 4,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
@@ -3407,7 +3407,7 @@
     "featureNote": "You may only have one Arcane Presence active at a time. This effect will remain until dismissed or until you lose consciousness."
   },
   {
-    "featureName": "Elilte Shining Bolt",
+    "featureName": "Elite Shining Bolt",
     "featureCost": 4,
     "featureClass": "Arcanist",
     "featurePath": "Sorcery",
