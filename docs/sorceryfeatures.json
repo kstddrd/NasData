@@ -110,7 +110,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may not take this Feature if you have already taken the Feature Invocation."
+    "featureNote": ""
   },
   {
     "featureName": "Primal Darkness",
@@ -485,7 +485,7 @@
     "dieTypeIncreaseAmount": 0,
     "dieNumIncreaseAmount": 0,
     "featureCanRepeat": false,
-    "featureNote": "You may not take this Feature if you have already taken the Feature Evocation."
+    "featureNote": ""
   },
   {
     "featureName": "Primal Fear",
