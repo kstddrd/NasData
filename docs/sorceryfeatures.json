@@ -7,7 +7,7 @@
     "featureDesc": "You have developed an ability to Bind and control Arcane Energy using the strength of your emotions and instincts.",
     "featureBenDesc": "You may learn and use Primal Arcane Powers. Add +1d4 Charge to your Charge roll result.",
     "hasFeaturePrereq": true,
-    "featurePrereq": ["Self-Awareness", "Bind Arcana"],
+    "featurePrereq": ["Bind Arcana"],
     "hasFeatureNumBonus": false,
     "featureNumBonus": 0,
     "featureBonusType": "",
