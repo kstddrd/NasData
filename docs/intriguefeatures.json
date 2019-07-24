@@ -6,7 +6,7 @@
     "featurePath": "General",
     "featurePathTree": "Intrigue",
     "featureDesc": "You are a charming and witty person. You like to talk to people, and most people feel comfortable with you.",
-    "featureBenDesc": "Gain a +1d4 bonus to all People Skills skill check roll results.",
+    "featureBenDesc": "Gain a +1d4 bonus to all Social Skills skill check roll results.",
     "hasFeaturePrereq": "",
     "featurePrereq": [
       "Charisma",
@@ -1055,7 +1055,7 @@
     "featureClass": "Intrigue",
     "featurePath": "General",
     "featurePathTree": "Intrigue",
-    "featureDesc": "Your People Skills have improved.",
+    "featureDesc": "Your Social Skills have improved.",
     "featureBenDesc": "Your People Person bonus has increased from 1d4 to 1d6.",
     "hasFeaturePrereq": "",
     "featurePrereq": [
@@ -1130,7 +1130,7 @@
     "featureClass": "Intrigue",
     "featurePath": "General",
     "featurePathTree": "Intrigue",
-    "featureDesc": "Your People skills are unrivaled.",
+    "featureDesc": "Your Social Skills are unrivaled.",
     "featureBenDesc": "Your People Person bonus has increased from 1d10 to 1d12.",
     "hasFeaturePrereq": "",
     "featurePrereq": [
