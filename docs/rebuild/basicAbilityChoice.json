@@ -1,0 +1,23 @@
+[
+  {
+      "acName": "Body",
+      "acFlavor": "You are good at physical and physically related actions and activities.  You tend to approach situations and solve problems from a physical perspective.",
+      "acBenefit": "Your character's Physical Ability die type is increased from the base ability die of d6 to d8.",
+      "acBonusTarget": "physical",
+      "acBonus": "6"
+  },
+  {
+      "acName": "Mind",
+      "acFlavor": "You are good at mental and mentally related actions and activities. You tend to approach situations and solve problems from a mental perspective.",
+      "acBenefit": "Your character's Mental Ability die type is increased to d8.  You will add 1d8 to all Ability Rolls.",
+      "acBonusTarget": "mental",
+      "acBonus": "6"
+  },
+  {
+      "acName": "Spirit",
+      "acFlavor": "You are good at spiritual and spiritually related actions and activities.  You tend to approach situations and solve problems from a spiritual perspective.",
+      "acBenefit": "Your character's Spiritual Ability die type is increased to d8.  You will add 1d8 to all Ability Rolls.",
+      "acBonusTarget": "spiritual",
+      "acBonus": "6"
+  }
+]
